@@ -1,0 +1,11 @@
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.deps.json
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.dll
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csproj.CoreCompileInputs.cache
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfoInputs.cache
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfo.cs
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.pdb
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.dll
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.pdb
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csprojResolveAssemblyReference.cache
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.dll
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.pdb

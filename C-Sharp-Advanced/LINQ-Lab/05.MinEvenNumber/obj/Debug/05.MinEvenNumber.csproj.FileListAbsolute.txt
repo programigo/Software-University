@@ -1,0 +1,6 @@
+D:\Software University\LINQ-Lab\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.exe.config
+D:\Software University\LINQ-Lab\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.exe
+D:\Software University\LINQ-Lab\05.MinEvenNumber\bin\Debug\05.MinEvenNumber.pdb
+D:\Software University\LINQ-Lab\05.MinEvenNumber\obj\Debug\05.MinEvenNumber.csproj.CoreCompileInputs.cache
+D:\Software University\LINQ-Lab\05.MinEvenNumber\obj\Debug\05.MinEvenNumber.exe
+D:\Software University\LINQ-Lab\05.MinEvenNumber\obj\Debug\05.MinEvenNumber.pdb

@@ -1,0 +1,16 @@
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.deps.json
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.json
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.dev.json
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.dll
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.pdb
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csprojResolveAssemblyReference.cache
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CoreCompileInputs.cache
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfoInputs.cache
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfo.cs
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.dll
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.pdb
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.dll
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.pdb
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.dll
+D:\Software University\ASP.NETEssentials-Exercises\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.pdb

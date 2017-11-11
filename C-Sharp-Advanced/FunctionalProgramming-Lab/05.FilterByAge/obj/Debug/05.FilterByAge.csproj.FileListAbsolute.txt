@@ -1,0 +1,6 @@
+D:\Software University\FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\05.FilterByAge.exe.config
+D:\Software University\FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\05.FilterByAge.exe
+D:\Software University\FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\05.FilterByAge.pdb
+D:\Software University\FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\05.FilterByAge.csproj.CoreCompileInputs.cache
+D:\Software University\FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\05.FilterByAge.exe
+D:\Software University\FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\05.FilterByAge.pdb

@@ -1,0 +1,6 @@
+D:\Software University\FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.exe.config
+D:\Software University\FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.exe
+D:\Software University\FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.pdb
+D:\Software University\FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\Software University\FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\05.AppliedArithmetics.exe
+D:\Software University\FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\05.AppliedArithmetics.pdb

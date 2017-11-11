@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\08.FullDirectoryTraversal\bin\Debug\08.FullDirectoryTraversal.exe.config
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\08.FullDirectoryTraversal\bin\Debug\08.FullDirectoryTraversal.exe
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\08.FullDirectoryTraversal\bin\Debug\08.FullDirectoryTraversal.pdb
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\08.FullDirectoryTraversal\obj\Debug\08.FullDirectoryTraversal.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\08.FullDirectoryTraversal\obj\Debug\08.FullDirectoryTraversal.exe
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\08.FullDirectoryTraversal\obj\Debug\08.FullDirectoryTraversal.pdb

@@ -1,0 +1,7 @@
+D:\Software University\RegularExpressions-Lab\02.VowelCount\bin\Debug\02.VowelCount.exe.config
+D:\Software University\RegularExpressions-Lab\02.VowelCount\bin\Debug\02.VowelCount.exe
+D:\Software University\RegularExpressions-Lab\02.VowelCount\bin\Debug\02.VowelCount.pdb
+D:\Software University\RegularExpressions-Lab\02.VowelCount\obj\Debug\02.VowelCount.csprojResolveAssemblyReference.cache
+D:\Software University\RegularExpressions-Lab\02.VowelCount\obj\Debug\02.VowelCount.csproj.CoreCompileInputs.cache
+D:\Software University\RegularExpressions-Lab\02.VowelCount\obj\Debug\02.VowelCount.exe
+D:\Software University\RegularExpressions-Lab\02.VowelCount\obj\Debug\02.VowelCount.pdb

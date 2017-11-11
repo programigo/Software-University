@@ -1,0 +1,7 @@
+D:\Software University\RegularExpressions-Lab\01.MatchCount\bin\Debug\01.MatchCount.exe.config
+D:\Software University\RegularExpressions-Lab\01.MatchCount\bin\Debug\01.MatchCount.exe
+D:\Software University\RegularExpressions-Lab\01.MatchCount\bin\Debug\01.MatchCount.pdb
+D:\Software University\RegularExpressions-Lab\01.MatchCount\obj\Debug\01.MatchCount.csprojResolveAssemblyReference.cache
+D:\Software University\RegularExpressions-Lab\01.MatchCount\obj\Debug\01.MatchCount.csproj.CoreCompileInputs.cache
+D:\Software University\RegularExpressions-Lab\01.MatchCount\obj\Debug\01.MatchCount.exe
+D:\Software University\RegularExpressions-Lab\01.MatchCount\obj\Debug\01.MatchCount.pdb

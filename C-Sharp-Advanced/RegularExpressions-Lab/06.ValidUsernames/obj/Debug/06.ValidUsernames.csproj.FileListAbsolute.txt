@@ -1,0 +1,6 @@
+D:\Software University\RegularExpressions-Lab\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe.config
+D:\Software University\RegularExpressions-Lab\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe
+D:\Software University\RegularExpressions-Lab\06.ValidUsernames\bin\Debug\06.ValidUsernames.pdb
+D:\Software University\RegularExpressions-Lab\06.ValidUsernames\obj\Debug\06.ValidUsernames.csproj.CoreCompileInputs.cache
+D:\Software University\RegularExpressions-Lab\06.ValidUsernames\obj\Debug\06.ValidUsernames.exe
+D:\Software University\RegularExpressions-Lab\06.ValidUsernames\obj\Debug\06.ValidUsernames.pdb

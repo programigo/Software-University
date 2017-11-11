@@ -1,0 +1,6 @@
+D:\Software University\Regular Expressions-Exercise\05.ExtractEmail\bin\Debug\05.ExtractEmail.exe.config
+D:\Software University\Regular Expressions-Exercise\05.ExtractEmail\bin\Debug\05.ExtractEmail.exe
+D:\Software University\Regular Expressions-Exercise\05.ExtractEmail\bin\Debug\05.ExtractEmail.pdb
+D:\Software University\Regular Expressions-Exercise\05.ExtractEmail\obj\Debug\05.ExtractEmails.csproj.CoreCompileInputs.cache
+D:\Software University\Regular Expressions-Exercise\05.ExtractEmail\obj\Debug\05.ExtractEmail.exe
+D:\Software University\Regular Expressions-Exercise\05.ExtractEmail\obj\Debug\05.ExtractEmail.pdb

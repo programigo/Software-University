@@ -1,0 +1,6 @@
+D:\Software University\FunctionalProgramming-Exercises\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.exe.config
+D:\Software University\FunctionalProgramming-Exercises\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.exe
+D:\Software University\FunctionalProgramming-Exercises\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.pdb
+D:\Software University\FunctionalProgramming-Exercises\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+D:\Software University\FunctionalProgramming-Exercises\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.exe
+D:\Software University\FunctionalProgramming-Exercises\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.pdb

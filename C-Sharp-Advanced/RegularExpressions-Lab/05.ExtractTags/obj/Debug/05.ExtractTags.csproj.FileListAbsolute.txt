@@ -1,0 +1,6 @@
+D:\Software University\RegularExpressions-Lab\05.ExtractTags\bin\Debug\05.ExtractTags.exe.config
+D:\Software University\RegularExpressions-Lab\05.ExtractTags\bin\Debug\05.ExtractTags.exe
+D:\Software University\RegularExpressions-Lab\05.ExtractTags\bin\Debug\05.ExtractTags.pdb
+D:\Software University\RegularExpressions-Lab\05.ExtractTags\obj\Debug\05.ExtractTags.csproj.CoreCompileInputs.cache
+D:\Software University\RegularExpressions-Lab\05.ExtractTags\obj\Debug\05.ExtractTags.exe
+D:\Software University\RegularExpressions-Lab\05.ExtractTags\obj\Debug\05.ExtractTags.pdb

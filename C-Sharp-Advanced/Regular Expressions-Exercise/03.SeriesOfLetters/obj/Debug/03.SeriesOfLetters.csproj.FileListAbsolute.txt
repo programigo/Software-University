@@ -1,0 +1,6 @@
+D:\Software University\Regular Expressions-Exercise\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.exe.config
+D:\Software University\Regular Expressions-Exercise\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.exe
+D:\Software University\Regular Expressions-Exercise\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.pdb
+D:\Software University\Regular Expressions-Exercise\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.csproj.CoreCompileInputs.cache
+D:\Software University\Regular Expressions-Exercise\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.exe
+D:\Software University\Regular Expressions-Exercise\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.pdb

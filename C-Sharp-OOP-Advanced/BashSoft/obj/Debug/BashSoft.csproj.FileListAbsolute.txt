@@ -1,0 +1,6 @@
+C:\Users\programigo\Desktop\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\programigo\Desktop\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\programigo\Desktop\BashSoft\bin\Debug\BashSoft.pdb
+C:\Users\programigo\Desktop\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\programigo\Desktop\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\programigo\Desktop\BashSoft\obj\Debug\BashSoft.pdb

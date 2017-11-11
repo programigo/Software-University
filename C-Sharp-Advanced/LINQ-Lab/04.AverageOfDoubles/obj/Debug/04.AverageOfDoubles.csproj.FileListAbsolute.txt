@@ -1,0 +1,6 @@
+D:\Software University\LINQ-Lab\04.AverageOfDoubles\bin\Debug\04.AverageOfDoubles.exe.config
+D:\Software University\LINQ-Lab\04.AverageOfDoubles\bin\Debug\04.AverageOfDoubles.exe
+D:\Software University\LINQ-Lab\04.AverageOfDoubles\bin\Debug\04.AverageOfDoubles.pdb
+D:\Software University\LINQ-Lab\04.AverageOfDoubles\obj\Debug\04.AverageOfDoubles.csproj.CoreCompileInputs.cache
+D:\Software University\LINQ-Lab\04.AverageOfDoubles\obj\Debug\04.AverageOfDoubles.exe
+D:\Software University\LINQ-Lab\04.AverageOfDoubles\obj\Debug\04.AverageOfDoubles.pdb

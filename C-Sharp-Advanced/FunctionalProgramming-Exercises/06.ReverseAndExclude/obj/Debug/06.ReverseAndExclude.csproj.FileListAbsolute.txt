@@ -1,0 +1,6 @@
+D:\Software University\FunctionalProgramming-Exercises\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe.config
+D:\Software University\FunctionalProgramming-Exercises\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe
+D:\Software University\FunctionalProgramming-Exercises\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.pdb
+D:\Software University\FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.csproj.CoreCompileInputs.cache
+D:\Software University\FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.exe
+D:\Software University\FunctionalProgramming-Exercises\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.pdb

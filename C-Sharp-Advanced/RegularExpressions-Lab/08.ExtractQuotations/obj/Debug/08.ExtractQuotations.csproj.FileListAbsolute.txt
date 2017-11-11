@@ -1,0 +1,6 @@
+D:\Software University\RegularExpressions-Lab\08.ExtractQuotations\bin\Debug\08.ExtractQuotations.exe.config
+D:\Software University\RegularExpressions-Lab\08.ExtractQuotations\bin\Debug\08.ExtractQuotations.exe
+D:\Software University\RegularExpressions-Lab\08.ExtractQuotations\bin\Debug\08.ExtractQuotations.pdb
+D:\Software University\RegularExpressions-Lab\08.ExtractQuotations\obj\Debug\08.ExtractQuotations.csproj.CoreCompileInputs.cache
+D:\Software University\RegularExpressions-Lab\08.ExtractQuotations\obj\Debug\08.ExtractQuotations.exe
+D:\Software University\RegularExpressions-Lab\08.ExtractQuotations\obj\Debug\08.ExtractQuotations.pdb

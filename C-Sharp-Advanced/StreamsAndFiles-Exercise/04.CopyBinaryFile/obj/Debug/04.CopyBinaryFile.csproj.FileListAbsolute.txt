@@ -1,0 +1,5 @@
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe.config
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.pdb
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.exe
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.pdb

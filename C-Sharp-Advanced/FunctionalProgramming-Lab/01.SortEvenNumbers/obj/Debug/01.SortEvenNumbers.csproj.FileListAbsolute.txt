@@ -1,0 +1,6 @@
+D:\Software University\FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\01.SortEvenNumbers.exe.config
+D:\Software University\FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\01.SortEvenNumbers.exe
+D:\Software University\FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\01.SortEvenNumbers.pdb
+D:\Software University\FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Software University\FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\01.SortEvenNumbers.exe
+D:\Software University\FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\01.SortEvenNumbers.pdb

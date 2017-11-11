@@ -1,0 +1,6 @@
+D:\Software University\FunctionalProgramming-Exercises\01.ActionPrint\bin\Debug\01.ActionPrint.exe.config
+D:\Software University\FunctionalProgramming-Exercises\01.ActionPrint\bin\Debug\01.ActionPrint.exe
+D:\Software University\FunctionalProgramming-Exercises\01.ActionPrint\bin\Debug\01.ActionPrint.pdb
+D:\Software University\FunctionalProgramming-Exercises\01.ActionPrint\obj\Debug\01.ActionPrint.csproj.CoreCompileInputs.cache
+D:\Software University\FunctionalProgramming-Exercises\01.ActionPrint\obj\Debug\01.ActionPrint.exe
+D:\Software University\FunctionalProgramming-Exercises\01.ActionPrint\obj\Debug\01.ActionPrint.pdb

@@ -1,0 +1,6 @@
+D:\Software University\FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.exe.config
+D:\Software University\FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.exe
+D:\Software University\FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\03.CountUppercaseWords.pdb
+D:\Software University\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\Software University\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.exe
+D:\Software University\FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\03.CountUppercaseWords.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe.config
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.pdb
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.exe
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.pdb

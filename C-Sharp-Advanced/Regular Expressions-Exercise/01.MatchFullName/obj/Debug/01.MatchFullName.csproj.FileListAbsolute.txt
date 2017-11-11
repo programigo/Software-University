@@ -1,0 +1,6 @@
+D:\Software University\Regular Expressions-Exercise\01.MatchFullName\bin\Debug\01.MatchFullName.exe.config
+D:\Software University\Regular Expressions-Exercise\01.MatchFullName\bin\Debug\01.MatchFullName.exe
+D:\Software University\Regular Expressions-Exercise\01.MatchFullName\bin\Debug\01.MatchFullName.pdb
+D:\Software University\Regular Expressions-Exercise\01.MatchFullName\obj\Debug\01.MatchFullName.csproj.CoreCompileInputs.cache
+D:\Software University\Regular Expressions-Exercise\01.MatchFullName\obj\Debug\01.MatchFullName.exe
+D:\Software University\Regular Expressions-Exercise\01.MatchFullName\obj\Debug\01.MatchFullName.pdb

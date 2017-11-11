@@ -1,0 +1,6 @@
+D:\Software University\FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\07.PredicateForNames.exe.config
+D:\Software University\FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\07.PredicateForNames.exe
+D:\Software University\FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\07.PredicateForNames.pdb
+D:\Software University\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\07.PredicateForNames.csproj.CoreCompileInputs.cache
+D:\Software University\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\07.PredicateForNames.exe
+D:\Software University\FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\07.PredicateForNames.pdb

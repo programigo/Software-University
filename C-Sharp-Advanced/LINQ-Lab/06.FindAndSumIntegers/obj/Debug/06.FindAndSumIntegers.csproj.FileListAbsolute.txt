@@ -1,0 +1,6 @@
+D:\Software University\LINQ-Lab\06.FindAndSumIntegers\bin\Debug\06.FindAndSumIntegers.exe.config
+D:\Software University\LINQ-Lab\06.FindAndSumIntegers\bin\Debug\06.FindAndSumIntegers.exe
+D:\Software University\LINQ-Lab\06.FindAndSumIntegers\bin\Debug\06.FindAndSumIntegers.pdb
+D:\Software University\LINQ-Lab\06.FindAndSumIntegers\obj\Debug\06.FindAndSumIntegers.csproj.CoreCompileInputs.cache
+D:\Software University\LINQ-Lab\06.FindAndSumIntegers\obj\Debug\06.FindAndSumIntegers.exe
+D:\Software University\LINQ-Lab\06.FindAndSumIntegers\obj\Debug\06.FindAndSumIntegers.pdb

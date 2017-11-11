@@ -1,0 +1,6 @@
+D:\Software University\Regular Expressions-Exercise\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe.config
+D:\Software University\Regular Expressions-Exercise\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe
+D:\Software University\Regular Expressions-Exercise\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.pdb
+D:\Software University\Regular Expressions-Exercise\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\Software University\Regular Expressions-Exercise\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.exe
+D:\Software University\Regular Expressions-Exercise\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.pdb

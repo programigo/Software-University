@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.pdb
+D:\Visual Studio Projects\Exercise-StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Software University\LINQ-Lab\02.UpperStrings\bin\Debug\02.UpperStrings.exe.config
+D:\Software University\LINQ-Lab\02.UpperStrings\bin\Debug\02.UpperStrings.exe
+D:\Software University\LINQ-Lab\02.UpperStrings\bin\Debug\02.UpperStrings.pdb
+D:\Software University\LINQ-Lab\02.UpperStrings\obj\Debug\02.UpperStrings.csproj.CoreCompileInputs.cache
+D:\Software University\LINQ-Lab\02.UpperStrings\obj\Debug\02.UpperStrings.exe
+D:\Software University\LINQ-Lab\02.UpperStrings\obj\Debug\02.UpperStrings.pdb

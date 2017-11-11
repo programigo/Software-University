@@ -1,0 +1,6 @@
+D:\Software University\LINQ-Lab\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.exe.config
+D:\Software University\LINQ-Lab\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.exe
+D:\Software University\LINQ-Lab\07.BoundedNumbers\bin\Debug\07.BoundedNumbers.pdb
+D:\Software University\LINQ-Lab\07.BoundedNumbers\obj\Debug\07.BoundedNumbers.csproj.CoreCompileInputs.cache
+D:\Software University\LINQ-Lab\07.BoundedNumbers\obj\Debug\07.BoundedNumbers.exe
+D:\Software University\LINQ-Lab\07.BoundedNumbers\obj\Debug\07.BoundedNumbers.pdb

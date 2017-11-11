@@ -1,0 +1,7 @@
+D:\Software University\RegularExpressions-Lab\03.Non-DigitCount\bin\Debug\03.Non-DigitCount.exe.config
+D:\Software University\RegularExpressions-Lab\03.Non-DigitCount\bin\Debug\03.Non-DigitCount.exe
+D:\Software University\RegularExpressions-Lab\03.Non-DigitCount\bin\Debug\03.Non-DigitCount.pdb
+D:\Software University\RegularExpressions-Lab\03.Non-DigitCount\obj\Debug\03.Non-DigitCount.csprojResolveAssemblyReference.cache
+D:\Software University\RegularExpressions-Lab\03.Non-DigitCount\obj\Debug\03.Non-DigitCount.csproj.CoreCompileInputs.cache
+D:\Software University\RegularExpressions-Lab\03.Non-DigitCount\obj\Debug\03.Non-DigitCount.exe
+D:\Software University\RegularExpressions-Lab\03.Non-DigitCount\obj\Debug\03.Non-DigitCount.pdb

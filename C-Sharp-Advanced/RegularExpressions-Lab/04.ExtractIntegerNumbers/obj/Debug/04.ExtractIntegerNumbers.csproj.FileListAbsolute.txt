@@ -1,0 +1,7 @@
+D:\Software University\RegularExpressions-Lab\04.ExtractIntegerNumbers\bin\Debug\04.ExtractIntegerNumbers.exe.config
+D:\Software University\RegularExpressions-Lab\04.ExtractIntegerNumbers\bin\Debug\04.ExtractIntegerNumbers.exe
+D:\Software University\RegularExpressions-Lab\04.ExtractIntegerNumbers\bin\Debug\04.ExtractIntegerNumbers.pdb
+D:\Software University\RegularExpressions-Lab\04.ExtractIntegerNumbers\obj\Debug\04.ExtractIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\Software University\RegularExpressions-Lab\04.ExtractIntegerNumbers\obj\Debug\04.ExtractIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\Software University\RegularExpressions-Lab\04.ExtractIntegerNumbers\obj\Debug\04.ExtractIntegerNumbers.exe
+D:\Software University\RegularExpressions-Lab\04.ExtractIntegerNumbers\obj\Debug\04.ExtractIntegerNumbers.pdb

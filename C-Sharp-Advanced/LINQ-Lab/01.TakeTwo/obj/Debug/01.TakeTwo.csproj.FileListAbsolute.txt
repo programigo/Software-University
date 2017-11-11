@@ -1,0 +1,6 @@
+D:\Software University\LINQ-Lab\01.TakeTwo\bin\Debug\01.TakeTwo.exe.config
+D:\Software University\LINQ-Lab\01.TakeTwo\bin\Debug\01.TakeTwo.exe
+D:\Software University\LINQ-Lab\01.TakeTwo\bin\Debug\01.TakeTwo.pdb
+D:\Software University\LINQ-Lab\01.TakeTwo\obj\Debug\01.TakeTwo.csproj.CoreCompileInputs.cache
+D:\Software University\LINQ-Lab\01.TakeTwo\obj\Debug\01.TakeTwo.exe
+D:\Software University\LINQ-Lab\01.TakeTwo\obj\Debug\01.TakeTwo.pdb

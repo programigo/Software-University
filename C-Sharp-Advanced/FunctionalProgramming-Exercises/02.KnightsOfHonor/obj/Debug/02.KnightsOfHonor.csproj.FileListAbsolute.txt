@@ -1,0 +1,6 @@
+D:\Software University\FunctionalProgramming-Exercises\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.exe.config
+D:\Software University\FunctionalProgramming-Exercises\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.exe
+D:\Software University\FunctionalProgramming-Exercises\02.KnightsOfHonor\bin\Debug\02.KnightsOfHonor.pdb
+D:\Software University\FunctionalProgramming-Exercises\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\Software University\FunctionalProgramming-Exercises\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.exe
+D:\Software University\FunctionalProgramming-Exercises\02.KnightsOfHonor\obj\Debug\02.KnightsOfHonor.pdb

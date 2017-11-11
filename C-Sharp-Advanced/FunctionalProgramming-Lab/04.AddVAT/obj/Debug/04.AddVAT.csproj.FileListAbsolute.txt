@@ -1,0 +1,6 @@
+D:\Software University\FunctionalProgramming-Lab\04.AddVAT\bin\Debug\04.AddVAT.exe.config
+D:\Software University\FunctionalProgramming-Lab\04.AddVAT\bin\Debug\04.AddVAT.exe
+D:\Software University\FunctionalProgramming-Lab\04.AddVAT\bin\Debug\04.AddVAT.pdb
+D:\Software University\FunctionalProgramming-Lab\04.AddVAT\obj\Debug\04.AddVAT.csproj.CoreCompileInputs.cache
+D:\Software University\FunctionalProgramming-Lab\04.AddVAT\obj\Debug\04.AddVAT.exe
+D:\Software University\FunctionalProgramming-Lab\04.AddVAT\obj\Debug\04.AddVAT.pdb

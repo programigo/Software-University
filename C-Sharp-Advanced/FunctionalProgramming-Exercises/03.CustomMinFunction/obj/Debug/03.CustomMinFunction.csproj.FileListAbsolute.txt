@@ -1,0 +1,6 @@
+D:\Software University\FunctionalProgramming-Exercises\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe.config
+D:\Software University\FunctionalProgramming-Exercises\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe
+D:\Software University\FunctionalProgramming-Exercises\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.pdb
+D:\Software University\FunctionalProgramming-Exercises\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\Software University\FunctionalProgramming-Exercises\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.exe
+D:\Software University\FunctionalProgramming-Exercises\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.pdb

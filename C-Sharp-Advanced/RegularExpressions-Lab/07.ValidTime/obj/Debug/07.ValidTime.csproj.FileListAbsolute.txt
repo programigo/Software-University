@@ -1,0 +1,6 @@
+D:\Software University\RegularExpressions-Lab\07.ValidTime\bin\Debug\07.ValidTime.exe.config
+D:\Software University\RegularExpressions-Lab\07.ValidTime\bin\Debug\07.ValidTime.exe
+D:\Software University\RegularExpressions-Lab\07.ValidTime\bin\Debug\07.ValidTime.pdb
+D:\Software University\RegularExpressions-Lab\07.ValidTime\obj\Debug\07.ValidTime.csproj.CoreCompileInputs.cache
+D:\Software University\RegularExpressions-Lab\07.ValidTime\obj\Debug\07.ValidTime.exe
+D:\Software University\RegularExpressions-Lab\07.ValidTime\obj\Debug\07.ValidTime.pdb
