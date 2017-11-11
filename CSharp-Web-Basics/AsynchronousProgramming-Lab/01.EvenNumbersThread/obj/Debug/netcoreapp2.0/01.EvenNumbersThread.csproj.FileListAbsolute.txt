@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\01.EvenNumbersThread\bin\Debug\netcoreapp2.0\01.EvenNumbersThread.deps.json
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\01.EvenNumbersThread\bin\Debug\netcoreapp2.0\01.EvenNumbersThread.runtimeconfig.json
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\01.EvenNumbersThread\bin\Debug\netcoreapp2.0\01.EvenNumbersThread.runtimeconfig.dev.json
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\01.EvenNumbersThread\bin\Debug\netcoreapp2.0\01.EvenNumbersThread.dll
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\01.EvenNumbersThread\bin\Debug\netcoreapp2.0\01.EvenNumbersThread.pdb
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\01.EvenNumbersThread\obj\Debug\netcoreapp2.0\01.EvenNumbersThread.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\01.EvenNumbersThread\obj\Debug\netcoreapp2.0\01.EvenNumbersThread.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\01.EvenNumbersThread\obj\Debug\netcoreapp2.0\01.EvenNumbersThread.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\01.EvenNumbersThread\obj\Debug\netcoreapp2.0\01.EvenNumbersThread.AssemblyInfo.cs
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\01.EvenNumbersThread\obj\Debug\netcoreapp2.0\01.EvenNumbersThread.dll
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\01.EvenNumbersThread\obj\Debug\netcoreapp2.0\01.EvenNumbersThread.pdb

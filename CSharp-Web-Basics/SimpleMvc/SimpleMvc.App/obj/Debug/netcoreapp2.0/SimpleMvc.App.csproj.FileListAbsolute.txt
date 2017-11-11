@@ -1,0 +1,17 @@
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.App.deps.json
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.App.runtimeconfig.json
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.App.runtimeconfig.dev.json
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.App.dll
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.App.pdb
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.csprojResolveAssemblyReference.cache
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.csproj.CoreCompileInputs.cache
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.AssemblyInfoInputs.cache
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.AssemblyInfo.cs
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.dll
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.pdb
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.Domain.dll
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.Domain.pdb

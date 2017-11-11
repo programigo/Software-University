@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\02.SliceFile\bin\Debug\netcoreapp2.0\02.SliceFile.deps.json
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\02.SliceFile\bin\Debug\netcoreapp2.0\02.SliceFile.runtimeconfig.json
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\02.SliceFile\bin\Debug\netcoreapp2.0\02.SliceFile.runtimeconfig.dev.json
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\02.SliceFile\bin\Debug\netcoreapp2.0\02.SliceFile.dll
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\02.SliceFile\bin\Debug\netcoreapp2.0\02.SliceFile.pdb
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\02.SliceFile\obj\Debug\netcoreapp2.0\02.SliceFile.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\02.SliceFile\obj\Debug\netcoreapp2.0\02.SliceFile.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\02.SliceFile\obj\Debug\netcoreapp2.0\02.SliceFile.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\02.SliceFile\obj\Debug\netcoreapp2.0\02.SliceFile.AssemblyInfo.cs
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\02.SliceFile\obj\Debug\netcoreapp2.0\02.SliceFile.dll
+D:\Visual Studio Projects\CSharpWeb\Lab-AsynchronousProgramming\02.SliceFile\obj\Debug\netcoreapp2.0\02.SliceFile.pdb

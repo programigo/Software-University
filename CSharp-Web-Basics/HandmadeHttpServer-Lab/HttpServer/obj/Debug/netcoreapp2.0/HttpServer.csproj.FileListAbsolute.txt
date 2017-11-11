@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\CSharpWeb\Lab-HandmadeHttpServer\HttpServer\obj\Debug\netcoreapp2.0\HttpServer.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\CSharpWeb\Lab-HandmadeHttpServer\HttpServer\obj\Debug\netcoreapp2.0\HttpServer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CSharpWeb\Lab-HandmadeHttpServer\HttpServer\obj\Debug\netcoreapp2.0\HttpServer.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CSharpWeb\Lab-HandmadeHttpServer\HttpServer\obj\Debug\netcoreapp2.0\HttpServer.AssemblyInfo.cs
+D:\Visual Studio Projects\CSharpWeb\Lab-HandmadeHttpServer\HttpServer\bin\Debug\netcoreapp2.0\HttpServer.deps.json
+D:\Visual Studio Projects\CSharpWeb\Lab-HandmadeHttpServer\HttpServer\bin\Debug\netcoreapp2.0\HttpServer.runtimeconfig.json
+D:\Visual Studio Projects\CSharpWeb\Lab-HandmadeHttpServer\HttpServer\bin\Debug\netcoreapp2.0\HttpServer.runtimeconfig.dev.json
+D:\Visual Studio Projects\CSharpWeb\Lab-HandmadeHttpServer\HttpServer\bin\Debug\netcoreapp2.0\HttpServer.dll
+D:\Visual Studio Projects\CSharpWeb\Lab-HandmadeHttpServer\HttpServer\bin\Debug\netcoreapp2.0\HttpServer.pdb
+D:\Visual Studio Projects\CSharpWeb\Lab-HandmadeHttpServer\HttpServer\obj\Debug\netcoreapp2.0\HttpServer.dll
+D:\Visual Studio Projects\CSharpWeb\Lab-HandmadeHttpServer\HttpServer\obj\Debug\netcoreapp2.0\HttpServer.pdb

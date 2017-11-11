@@ -1,0 +1,13 @@
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.deps.json
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.runtimeconfig.json
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.runtimeconfig.dev.json
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csprojResolveAssemblyReference.cache
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csproj.CoreCompileInputs.cache
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfoInputs.cache
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfo.cs
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb

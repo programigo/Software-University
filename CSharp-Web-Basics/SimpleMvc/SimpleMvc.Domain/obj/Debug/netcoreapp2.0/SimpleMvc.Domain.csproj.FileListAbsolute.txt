@@ -1,0 +1,11 @@
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\bin\Debug\netcoreapp2.0\SimpleMvc.Domain.deps.json
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\bin\Debug\netcoreapp2.0\SimpleMvc.Domain.runtimeconfig.json
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\bin\Debug\netcoreapp2.0\SimpleMvc.Domain.runtimeconfig.dev.json
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\bin\Debug\netcoreapp2.0\SimpleMvc.Domain.dll
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\bin\Debug\netcoreapp2.0\SimpleMvc.Domain.pdb
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.csprojResolveAssemblyReference.cache
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.AssemblyInfoInputs.cache
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.AssemblyInfo.cs
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.dll
+C:\Users\programigo\Desktop\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.pdb
