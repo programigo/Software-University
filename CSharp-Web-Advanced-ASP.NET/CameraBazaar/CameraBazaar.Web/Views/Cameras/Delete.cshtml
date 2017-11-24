@@ -1,0 +1,10 @@
+﻿@model int
+
+@{
+    ViewData["Title"] = "Delete Camera";
+}
+
+<h2>Are you sure yo want to delete this camera ?</h2>
+<a href="/cameras/destroy/@Model" class="btn btn-danger">Confirm Delete</a>
+<a href="/cameras" class="btn btn-default">Back</a>
+

@@ -1,0 +1,93 @@
+﻿@model UserDetailsModel
+
+@if (Model.IsCurrentlyLogged)
+{
+    <div class="container-fluid">
+        <div class="row">
+            
+            <div class="col-md-8">
+                <h2>@Model.Username <a href="/users/edit/@Model.Id" class="btn btn-primary">Edit Profile</a></h2>
+
+                <p><strong>Email: </strong>@Model.Email</p>
+                <p><strong>Phone: </strong>@Model.Phonenumber</p>
+                <p><strong>Cameras: </strong>@(Model.Cameras.Where(c => c.Quantity > 0).Count()) in stock / @(Model.Cameras.Where(c => c.Quantity <= 0).Count()) out of stock</p>
+
+                <h2>Cameras:</h2>
+                @if (Model.Cameras.Count <= 0)
+                {
+                    <p>The user is not selling any cameras. Go to <a href="/camera">home page</a> to find more offers of other users.</p>
+                }
+                else
+                {
+                    @foreach (var camera in Model.Cameras)
+                    {
+                        <div class="w3-panel table-bordered">
+                            <div><img src="@camera.ImageUrl" width="200" /></div>
+                            <div><strong>@camera.Make @camera.Model $</strong>@camera.Price</div>
+                            <div>
+                                <a href="/cameras/@camera.Id">Details</a>
+                                @if (camera.Quantity > 0)
+                                {
+                                    <strong class="text-success">IN STOCK</strong>
+                                }
+                                else
+                                {
+                                    <strong class="text-danger">OUT OF STOCK</strong>
+                                }
+                            </div>
+                            <a href="/cameras/edit/@camera.Id" class="btn btn-primary">Edit</a>
+                            <a href="/cameras/delete/@camera.Id" class="btn btn-danger">Delete</a>
+                        </div>
+                    }
+
+                }
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="container-fluid">
+        <div class="row">
+            
+            <div class="col-md-8">
+                <h2>@Model.Username</h2>
+
+                <p><strong>Email: </strong>@Model.Email</p>
+                <p><strong>Phone: </strong>@Model.Phonenumber</p>
+                <p><strong>Cameras: </strong>@(Model.Cameras.Where(c => c.Quantity > 0).Count()) in stock / @(Model.Cameras.Where(c => c.Quantity <= 0).Count()) out of stock</p>
+
+                <h2>Cameras:</h2>
+                @if (Model.Cameras.Count <= 0)
+                {
+                    <p>The user is not selling any cameras. Go to <a href="/camera">home page</a> to find more offers of other users.</p>
+                }
+                else
+                {
+                    @foreach (var camera in Model.Cameras)
+                    {
+                        <div class="w3-panel table-bordered">
+                            <div><img src="@camera.ImageUrl" width="200" /></div>
+                            <div><strong>@camera.Make @camera.Model $</strong>@camera.Price</div>
+                            <div>
+                                <a href="/cameras/@camera.Id">Details</a>
+                                @if (camera.Quantity > 0)
+                                {
+                                    <strong class="text-success">IN STOCK</strong>
+                                }
+                                else
+                                {
+                                    <strong class="text-danger">OUT OF STOCK</strong>
+                                }
+                            </div>
+                        </div>
+                    }
+
+                }
+            </div>
+        </div>
+    </div>
+}
+    
+
+

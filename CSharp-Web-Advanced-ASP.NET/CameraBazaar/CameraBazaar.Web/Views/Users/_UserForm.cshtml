@@ -1,0 +1,30 @@
+﻿@model UserFormModel
+
+@if (Model.IsCurrentlyLogged)
+{
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="form-text text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NewPassword"></label>
+            <input type="password" asp-for="NewPassword" class="form-control" />
+            <span asp-validation-for="NewPassword" class="form-text text-danger"></span>
+        </div>   
+        <div class="form-group">
+            <label asp-for="Phonenumber"></label>
+            <input asp-for="Phonenumber" class="form-control" />
+            <span asp-validation-for="Phonenumber" class="form-text text-danger"></span>
+        </div>   
+        <div class="form-group">
+            <label asp-for="CurrentPassword"></label>
+            <input type="password" asp-for="CurrentPassword" class="form-control" />
+            <span asp-validation-for="CurrentPassword" class="form-text text-danger"></span>
+        </div>
+
+        <input class="btn" type="submit" value="Cancel" />
+        <input class="btn btn-primary" type="submit" value="Edit" />
+    </form>
+}

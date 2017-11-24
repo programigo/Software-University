@@ -1,0 +1,32 @@
+﻿@model CameraDetailsModel
+
+<h3>
+    @Model.Make @Model.Model - $@Model.Price -
+    @if (Model.Quantity > 0)
+    {
+        <strong class="text-success">IN STOCK</strong>
+    }
+    else
+    {
+        <strong class="text-danger">OUT OF STOCK</strong>
+    }
+</h3>
+
+@if (User.IsInRole(GlobalConstants.AdministratorRole) || User.IsInRole(GlobalConstants.RegisteredUser))
+{
+    <a href="/users/@Model.User.Id">@Model.User.Email</a>
+}
+
+<p><img src="@Model.ImageUrl" width="200" /></p>
+<p><strong>Is Full Frame: </strong>@(Model.IsFullFrame ? "Yes" : "No")</p>
+<p><strong>Min Shutter Speed: </strong>@Model.MinShutterSpeed</p>
+<p><strong>Max Shutter Speed: </strong>@Model.MaxShutterSpeed</p>
+<p><strong>Min ISO: </strong>@Model.MinISO</p>
+<p><strong>Max ISO: </strong>@Model.MaxISO</p>
+<p><strong>Video Resolution: </strong>@Model.VideoResolution</p>
+<p>
+    <strong>Light Metering: </strong>
+
+</p>
+<p><strong>Description: </strong>@Model.Description</p>
+
