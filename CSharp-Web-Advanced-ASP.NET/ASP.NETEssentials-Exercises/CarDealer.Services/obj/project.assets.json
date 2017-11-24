@@ -3635,11 +3635,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Services\\CarDealer.Services.csproj",
+      "projectUniqueName": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Services\\CarDealer.Services.csproj",
       "projectName": "CarDealer.Services",
-      "projectPath": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Services\\CarDealer.Services.csproj",
+      "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Services\\CarDealer.Services.csproj",
       "packagesPath": "C:\\Users\\programigo\\.nuget\\packages\\",
-      "outputPath": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Services\\obj\\",
+      "outputPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3658,8 +3658,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj": {
-              "projectPath": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj"
+            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj": {
+              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj"
             }
           }
         }

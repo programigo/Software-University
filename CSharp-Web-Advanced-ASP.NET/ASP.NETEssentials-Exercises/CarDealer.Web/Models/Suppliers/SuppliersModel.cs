@@ -1,9 +1,7 @@
-﻿using CarDealer.Services.Models.Suppliers;
-
-namespace CarDealer.Web.Models.Suppliers
+﻿namespace CarDealer.Web.Models.Suppliers
 {
     using System.Collections.Generic;
-    using Services.Models;
+    using CarDealer.Services.Models.Suppliers;
 
     public class SuppliersModel
     {

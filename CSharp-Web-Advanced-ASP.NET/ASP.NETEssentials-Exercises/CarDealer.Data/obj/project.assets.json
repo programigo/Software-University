@@ -3615,11 +3615,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj",
+      "projectUniqueName": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj",
       "projectName": "CarDealer.Data",
-      "projectPath": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj",
+      "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj",
       "packagesPath": "C:\\Users\\programigo\\.nuget\\packages\\",
-      "outputPath": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Data\\obj\\",
+      "outputPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

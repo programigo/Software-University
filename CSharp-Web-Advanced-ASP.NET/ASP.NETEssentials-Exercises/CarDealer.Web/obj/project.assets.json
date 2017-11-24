@@ -13166,11 +13166,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Web\\CarDealer.Web.csproj",
+      "projectUniqueName": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Web\\CarDealer.Web.csproj",
       "projectName": "CarDealer.Web",
-      "projectPath": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Web\\CarDealer.Web.csproj",
+      "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Web\\CarDealer.Web.csproj",
       "packagesPath": "C:\\Users\\programigo\\.nuget\\packages\\",
-      "outputPath": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Web\\obj\\",
+      "outputPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13189,11 +13189,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Services\\CarDealer.Services.csproj": {
-              "projectPath": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Services\\CarDealer.Services.csproj"
+            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Services\\CarDealer.Services.csproj": {
+              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Services\\CarDealer.Services.csproj"
             },
-            "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj": {
-              "projectPath": "D:\\Software University\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj"
+            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj": {
+              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETEssentials-Exercises\\CarDealer.Data\\CarDealer.Data.csproj"
             }
           }
         }
@@ -13219,7 +13219,7 @@
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {

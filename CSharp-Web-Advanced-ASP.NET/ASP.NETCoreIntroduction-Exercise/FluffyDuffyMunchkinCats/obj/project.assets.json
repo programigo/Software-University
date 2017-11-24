@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Software University\\ASP.NETCoreIntroduction-Exercise\\FluffyDuffyMunchkinCats\\FluffyDuffyMunchkinCats.csproj",
+      "projectUniqueName": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETCoreIntroduction-Exercise\\FluffyDuffyMunchkinCats\\FluffyDuffyMunchkinCats.csproj",
       "projectName": "FluffyDuffyMunchkinCats",
-      "projectPath": "D:\\Software University\\ASP.NETCoreIntroduction-Exercise\\FluffyDuffyMunchkinCats\\FluffyDuffyMunchkinCats.csproj",
+      "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETCoreIntroduction-Exercise\\FluffyDuffyMunchkinCats\\FluffyDuffyMunchkinCats.csproj",
       "packagesPath": "C:\\Users\\programigo\\.nuget\\packages\\",
-      "outputPath": "D:\\Software University\\ASP.NETCoreIntroduction-Exercise\\FluffyDuffyMunchkinCats\\obj\\",
+      "outputPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\ASP.NETCoreIntroduction-Exercise\\FluffyDuffyMunchkinCats\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12584,7 +12584,7 @@
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {

@@ -9,3 +9,14 @@ D:\Software University\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\
 D:\Software University\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\bin\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.pdb
 D:\Software University\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.dll
 D:\Software University\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\bin\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.deps.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\bin\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.runtimeconfig.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\bin\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.runtimeconfig.dev.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\bin\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\bin\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.csprojResolveAssemblyReference.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.csproj.CoreCompileInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.AssemblyInfoInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.AssemblyInfo.cs
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\ASP.NETCoreIntroduction-Exercise\FluffyDuffyMunchkinCats\obj\Debug\netcoreapp2.0\FluffyDuffyMunchkinCats.pdb

@@ -117,5 +117,18 @@ namespace CarDealer.Services.Implementations
         {
             return this.db.Customers.Any(c => c.Id == id);
         }
+
+        public IEnumerable<CustomerBasicModel> All()
+        {
+            return this.db
+                 .Customers
+                 .OrderBy(p => p.Id)
+                 .Select(p => new CustomerBasicModel
+                 {
+                     Id = p.Id,
+                     Name = p.Name
+                 })
+                 .ToList();
+        }
     }
 }

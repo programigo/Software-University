@@ -17,6 +17,9 @@
         void Edit(int id, string modelName, DateTime modelBirthday, bool modelIsYoungDriver);
 
         CustomerModel ById(int id);
+
         bool Exists(int id);
+
+        IEnumerable<CustomerBasicModel> All();
     }
 }
