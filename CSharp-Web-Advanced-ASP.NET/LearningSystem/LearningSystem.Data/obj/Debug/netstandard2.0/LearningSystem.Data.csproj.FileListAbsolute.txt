@@ -1,0 +1,9 @@
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Data\bin\Debug\netstandard2.0\LearningSystem.Data.deps.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Data\bin\Debug\netstandard2.0\LearningSystem.Data.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.csprojResolveAssemblyReference.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.csproj.CoreCompileInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.AssemblyInfoInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.AssemblyInfo.cs
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Data\bin\Debug\netstandard2.0\LearningSystem.Data.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Data\obj\Debug\netstandard2.0\LearningSystem.Data.pdb

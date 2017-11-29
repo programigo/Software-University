@@ -1,0 +1,13 @@
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Services.deps.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Services.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.csprojResolveAssemblyReference.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.csproj.CoreCompileInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.AssemblyInfoInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.AssemblyInfo.cs
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Services.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Common.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Data.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Common.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\bin\Debug\netstandard2.0\LearningSystem.Data.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\LearningSystem\LearningSystem.Services\obj\Debug\netstandard2.0\LearningSystem.Services.pdb
