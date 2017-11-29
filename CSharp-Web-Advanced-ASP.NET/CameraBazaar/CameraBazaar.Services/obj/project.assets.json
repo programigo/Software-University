@@ -3633,11 +3633,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Services\\CameraBazaar.Services.csproj",
+      "projectUniqueName": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Services\\CameraBazaar.Services.csproj",
       "projectName": "CameraBazaar.Services",
-      "projectPath": "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Services\\CameraBazaar.Services.csproj",
+      "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Services\\CameraBazaar.Services.csproj",
       "packagesPath": "C:\\Users\\programigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Services\\obj\\",
+      "outputPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3656,8 +3656,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Data\\CameraBazaar.Data.csproj": {
-              "projectPath": "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Data\\CameraBazaar.Data.csproj"
+            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Data\\CameraBazaar.Data.csproj": {
+              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Data\\CameraBazaar.Data.csproj"
             }
           }
         }

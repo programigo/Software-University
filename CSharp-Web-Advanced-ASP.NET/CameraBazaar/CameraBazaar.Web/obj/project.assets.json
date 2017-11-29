@@ -13172,11 +13172,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Web\\CameraBazaar.Web.csproj",
+      "projectUniqueName": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Web\\CameraBazaar.Web.csproj",
       "projectName": "CameraBazaar.Web",
-      "projectPath": "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Web\\CameraBazaar.Web.csproj",
+      "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Web\\CameraBazaar.Web.csproj",
       "packagesPath": "C:\\Users\\programigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Web\\obj\\",
+      "outputPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13195,11 +13195,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Data\\CameraBazaar.Data.csproj": {
-              "projectPath": "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Data\\CameraBazaar.Data.csproj"
+            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Data\\CameraBazaar.Data.csproj": {
+              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Data\\CameraBazaar.Data.csproj"
             },
-            "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Services\\CameraBazaar.Services.csproj": {
-              "projectPath": "C:\\Users\\programigo\\Desktop\\CameraBazaar\\CameraBazaar.Services\\CameraBazaar.Services.csproj"
+            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Services\\CameraBazaar.Services.csproj": {
+              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\CameraBazaar\\CameraBazaar.Services\\CameraBazaar.Services.csproj"
             }
           }
         }
