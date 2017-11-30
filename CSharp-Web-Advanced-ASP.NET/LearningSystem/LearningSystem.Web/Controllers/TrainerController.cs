@@ -7,6 +7,7 @@
     using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Identity;
     using Microsoft.AspNetCore.Mvc;
+    using System;
     using System.Threading.Tasks;
 
     [Authorize(Roles = WebConstants.TrainerRole)]
@@ -63,7 +64,7 @@
                 return BadRequest();
             }
 
-            var success = await this.trainers.AddGrade(studentId, id, grade);
+            var success = await this.trainers.AddGradeAsync(studentId, id, grade);
 
             if (!success)
             {
@@ -71,6 +72,38 @@
             }
 
             return RedirectToAction(nameof(Students), new { id });
+        }
+
+        public async Task<IActionResult> DownloadExam(int id, string studentId)
+        {
+            if (string.IsNullOrEmpty(studentId))
+            {
+                return BadRequest();
+            }
+
+            var userId = this.userManager.GetUserId(User);
+
+            if (!await this.trainers.IsTrainer(id, userId))
+            {
+                return BadRequest();
+            }
+
+            var examContents = await this.trainers.GetExamSubmissionAsync(studentId, id);
+
+            if (examContents == null)
+            {
+                return BadRequest();
+            }
+
+            var studentInCourseNames = await this.trainers
+                                .StudentInCourseNamesAsync(studentId, id);
+
+            if (studentInCourseNames == null)
+            {
+                return BadRequest();
+            }
+
+            return File(examContents, "application/zip", $"{studentInCourseNames.CourseName}-{studentInCourseNames.Username}-{DateTime.UtcNow.ToString("MM-DD-yyyy")}.zip");
         }
     }
 }

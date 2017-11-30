@@ -41,7 +41,7 @@
                 return View(model);
             }
 
-            await this.courses.CreateAsync(model.Name, model.Description, model.StartDate, model.EndDate, model.TrainerId);
+            await this.courses.CreateAsync(model.Name, model.Description, model.StartDate, model.EndDate.AddDays(1), model.TrainerId);
 
             TempData.AddSuccessMessage($"Course {model.Name} created successfully!");
 

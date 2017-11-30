@@ -76,6 +76,9 @@ namespace LearningSystem.Data.Migrations
 
                     b.Property<int>("CourseId");
 
+                    b.Property<byte[]>("ExamSubmission")
+                        .HasMaxLength(2097152);
+
                     b.Property<int?>("Grade");
 
                     b.HasKey("StudentId", "CourseId");
