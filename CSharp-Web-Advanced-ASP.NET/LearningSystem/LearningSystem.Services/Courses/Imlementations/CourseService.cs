@@ -34,12 +34,41 @@
                         .ProjectTo<TModel>()
                         .FirstOrDefaultAsync();
 
+        public async Task<IEnumerable<CourseListingServiceModel>> FindAsync(string searchText)
+        {
+            searchText = searchText ?? string.Empty;
+
+            return await this.db
+                       .Courses
+                       .OrderByDescending(c => c.Id)
+                       .Where(c => c.StartDate >= DateTime.UtcNow)
+                       .ProjectTo<CourseListingServiceModel>()
+                       .ToListAsync();
+        }
+
+        public async Task<bool> SaveExamSubmission(int courseId, string studentId, byte[] examSubmission)
+        {
+            var studentInCourse = await this.db
+                                        .FindAsync<StudentCourse>(courseId, studentId);
+
+            if (studentInCourse == null)
+            {
+                return false;
+            }
+
+            studentInCourse.ExamSubmission = examSubmission;
+
+            await this.db.SaveChangesAsync();
+
+            return true;
+        }
+
         public async Task<bool> SignOutStudentAsync(int courseId, string studentId)
         {
             var courseInfo = await this.GetCourseInfo(courseId, studentId);
 
             if (courseInfo == null
-                ||courseInfo.StartDate < DateTime.UtcNow
+                || courseInfo.StartDate < DateTime.UtcNow
                 || !courseInfo.UserIsEnrolled)
             {
                 return false;
