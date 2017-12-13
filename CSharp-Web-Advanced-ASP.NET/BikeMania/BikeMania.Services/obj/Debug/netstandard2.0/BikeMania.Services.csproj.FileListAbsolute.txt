@@ -1,0 +1,13 @@
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Debug\netstandard2.0\BikeMania.Services.deps.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Debug\netstandard2.0\BikeMania.Services.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Debug\netstandard2.0\BikeMania.Services.csprojResolveAssemblyReference.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Debug\netstandard2.0\BikeMania.Services.csproj.CoreCompileInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Debug\netstandard2.0\BikeMania.Services.AssemblyInfoInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Debug\netstandard2.0\BikeMania.Services.AssemblyInfo.cs
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Debug\netstandard2.0\BikeMania.Services.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Debug\netstandard2.0\BikeMania.Common.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Debug\netstandard2.0\BikeMania.Data.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Debug\netstandard2.0\BikeMania.Common.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Debug\netstandard2.0\BikeMania.Data.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Debug\netstandard2.0\BikeMania.Services.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Debug\netstandard2.0\BikeMania.Services.pdb
