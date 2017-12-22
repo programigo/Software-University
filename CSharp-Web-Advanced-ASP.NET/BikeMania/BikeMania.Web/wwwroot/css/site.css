@@ -21,9 +21,25 @@
     width: 100%;
 }
 
+.pagination li.disabled a {
+    pointer-events: none;
+}
+
+.delete-panel {
+    margin-top: 50px;
+}
+
+.home-carousel {
+    margin-top: 30px;
+}
+
 /* QR code generator */
 #qrCode {
     margin: 15px;
+}
+
+.bike-listings .img-responsive {
+    height: 100px !important;
 }
 
 /* Hide/rearrange for smaller screens */

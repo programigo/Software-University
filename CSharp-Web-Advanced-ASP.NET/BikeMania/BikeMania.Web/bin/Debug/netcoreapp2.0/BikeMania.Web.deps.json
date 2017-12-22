@@ -4094,7 +4094,8 @@
       },
       "BikeMania.Common/1.0.0": {
         "dependencies": {
-          "AutoMapper": "6.2.2"
+          "AutoMapper": "6.2.2",
+          "BikeMania.Data": "1.0.0"
         },
         "runtime": {
           "BikeMania.Common.dll": {}

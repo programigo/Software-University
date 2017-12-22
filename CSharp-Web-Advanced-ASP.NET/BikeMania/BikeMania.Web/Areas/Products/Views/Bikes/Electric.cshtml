@@ -1,0 +1,31 @@
+﻿@model BikeListingViewModel
+
+@{
+    ViewData["Title"] = "Electric Bikes";
+}
+
+<h2 align="center">@ViewData["Title"]</h2>
+
+<br />
+
+<div class="row bike-listings">
+    @await Html.PartialAsync("_BikeListingsPartial", Model.Bikes)
+</div>
+
+@if (Model.TotalBikes > Model.Bikes.Count())
+{
+    <ul class="pagination">
+        <li class="@(Model.CurrentPage == 1 ? "disabled" : string.Empty)">
+            <a asp-route-page="@Model.PreviousPage"
+               aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+            </a>
+        </li>
+        <li class="@(Model.CurrentPage == Model.TotalPages ? "disabled" : string.Empty)">
+            <a asp-route-page="@Model.NextPage"
+               aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+            </a>
+        </li>
+    </ul>
+}

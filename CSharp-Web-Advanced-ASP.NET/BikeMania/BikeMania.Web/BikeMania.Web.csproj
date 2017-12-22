@@ -25,10 +25,4 @@
     <ProjectReference Include="..\BikeMania.Services\BikeMania.Services.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Areas\Products\Controllers\" />
-    <Folder Include="Areas\Products\Models\" />
-    <Folder Include="Areas\Products\Views\" />
-  </ItemGroup>
-
 </Project>

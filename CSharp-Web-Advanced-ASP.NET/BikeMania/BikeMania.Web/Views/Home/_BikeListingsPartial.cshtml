@@ -1,0 +1,33 @@
+﻿@model IEnumerable<BikeListingServiceModel>
+
+
+@foreach (var bike in Model)
+{
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title text-center">
+                    <a asp-area="Products" asp-controller="Bikes" asp-action="Details" asp-route-id="@bike.Id">@bike.Make @bike.Model</a>
+                </h3>
+            </div>
+            <div class="panel-body">
+                <img src="@bike.ImageUrl" class="img-responsive">
+            </div>
+
+            @if (User.GetUserId() == bike.UserId)
+            {
+            <div style="text-align:center" class="panel-footer">
+                <a asp-area="Products" asp-controller="Bikes" asp-action="Edit" asp-route-id="@bike.Id" class="btn btn-warning glyphicon glyphicon-edit">Edit</a>
+                <a asp-area="Products" asp-controller="Bikes" asp-action="Delete" asp-route-id="@bike.Id" class="btn btn-danger glyphicon glyphicon-remove">Delete</a>
+            </div>
+            }
+            else
+            {
+                <div style="text-align:center" class="panel-footer">
+                    <strong>@bike.Price BGN</strong>
+                    <a class="btn btn-primary glyphicon glyphicon-shopping-cart" asp-area="" asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-id="@bike.Id">Add To Cart</a>
+                </div>
+            }
+        </div>
+    </div>
+}

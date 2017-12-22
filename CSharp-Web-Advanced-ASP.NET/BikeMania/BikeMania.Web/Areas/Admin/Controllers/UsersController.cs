@@ -12,7 +12,7 @@
     using System.Linq;
     using System.Threading.Tasks;
 
-    [Area("Admin")]
+    [Area(GlobalConstants.AdminArea)]
     [Authorize(Roles = GlobalConstants.AdministratorRole)]
     public class UsersController : Controller
     {

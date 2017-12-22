@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Bike Mania</title>
+    <title>Bike Mania - @ViewData["Title"]</title>
 
     <environment include="Development">
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
@@ -17,7 +17,7 @@
     </environment>
 </head>
 <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color:brown">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -26,17 +26,34 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">Bike Mania</a>
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand" >Bike Mania</a>
             </div>
-            <div class="navbar-collapse collapse">
+            <div class="navbar-collapse collapse" id="myNavbar">
                 <ul class="nav navbar-nav">
-                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
-
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            Products
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a asp-area="Products" asp-controller="Bikes" asp-action="Index">All Bikes</a></li>
+                            <li><a asp-area="Products" asp-controller="Bikes" asp-action="Road">Road Bikes</a></li>
+                            <li><a asp-area="Products" asp-controller="Bikes" asp-action="Mountain">Mountain Bikes</a></li>
+                            <li><a asp-area="Products" asp-controller="Bikes" asp-action="SuspensionMountain">Suspension Mountain Bikes</a></li>
+                            <li><a asp-area="Products" asp-controller="Bikes" asp-action="Electric">Electric Bikes</a></li>
+                            <li><a asp-area="Products" asp-controller="Bikes" asp-action="Kids">Kids Bikes</a></li>
+                        </ul>
+                    </li>
                     @if (User.IsInRole(GlobalConstants.AdministratorRole))
                     {
                         <li><a asp-area="Admin" asp-controller="Users" asp-action="Index">Users</a></li>
                     }
 
+                    @if (User.IsInRole(GlobalConstants.AdministratorRole) || User.IsInRole(GlobalConstants.AuthorizedSellerRole))
+                    {
+                        <li><a asp-area="Products" asp-controller="Bikes" asp-action="Create">Add Bike</a></li>
+                    }
+                    
                 </ul>
                 @await Html.PartialAsync("_LoginPartial")
             </div>

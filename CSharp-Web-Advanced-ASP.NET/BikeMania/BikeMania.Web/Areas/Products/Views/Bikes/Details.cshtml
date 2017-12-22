@@ -1,0 +1,125 @@
+﻿@model BikeDetailsServiceModel
+
+@{
+    ViewData["Title"] = $"{Model.Make} {Model.Model}";
+}
+
+<h2 align="center">@ViewData["Title"]</h2>
+
+<div class="col-md-4"></div>
+<div class="col-md-4">
+    <img align="top" src="@Model.ImageUrl" class="img-responsive" height="400" width="400">
+</div>
+
+<div class="container">
+    <table class="table table-striped">
+        <tbody>
+            <tr>
+                <td><strong>Frame Size</strong></td>
+                <td>@Model.FrameSize</td>
+            </tr>
+            <tr>
+                <td><strong>Wheeles Make</strong></td>
+                <td>@Model.WheelesMake</td>
+            </tr>
+            <tr>
+                <td><strong>Fork Make</strong></td>
+                <td>@Model.ForkMake</td>
+            </tr>
+            <tr>
+                <td><strong>Tires Make</strong></td>
+                <td>@Model.TiresMake</td>
+            </tr>
+            <tr>
+                <td><strong>Shifters Make</strong></td>
+                <td>@Model.ShiftersMake</td>
+            </tr>
+            <tr>
+                <td><strong>Front Derailleur</strong></td>
+                <td>@Model.FrontDerailleur</td>
+            </tr>
+            <tr>
+                <td><strong>Rear Derailleur</strong></td>
+                <td>@Model.RearDerailleur</td>
+            </tr>
+            <tr>
+                <td><strong>Chain</strong></td>
+                <td>@Model.Chain</td>
+            </tr>
+            <tr>
+                <td><strong>Saddle</strong></td>
+                <td>@Model.Saddle</td>
+            </tr>
+            <tr>
+                <td><strong>Handlebar</strong></td>
+                <td>@Model.Handlebar</td>
+            </tr>
+            <tr>
+                <td><strong>Brakes</strong></td>
+                <td>@Model.Brakes</td>
+            </tr>
+            @if (Model.BrakeLevers != null)
+            {
+                <tr>
+                    <td><strong>Brake Levers</strong></td>
+                    <td>@Model.BrakeLevers</td>
+                </tr>
+            }
+            @if (Model.BatteryMake != null && Model.BatteryPower != null)
+            {
+                <tr>
+                    <td><strong>Battery Make</strong></td>
+                    <td>@Model.BatteryMake</td>
+                </tr>
+                <tr>
+                    <td><strong>Battery Power</strong></td>
+                    <td>@Model.BatteryPower</td>
+                </tr>
+            }
+            @if (Model.BarTape != null)
+            {
+                <tr>
+                    <td><strong>Bar Tape</strong></td>
+                    <td>@Model.BarTape</td>
+                </tr>
+            }
+            @if (Model.RearShockMake != null)
+            {
+                <tr>
+                    <td><strong>Rear Shock Make</strong></td>
+                    <td>@Model.RearShockMake</td>
+                </tr>
+            }
+            @if (Model.Kickstand != null)
+            {
+                <tr>
+                    <td><strong>Kickstand</strong></td>
+                    <td>@Model.Kickstand</td>
+                </tr>
+            }
+            <tr>
+                <td><strong>Color</strong></td>
+                <td>@Model.Color</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+@if (User.GetUserId() == Model.UserId)
+{
+    <div style="text-align:center">
+        <a asp-area="Products" asp-controller="Bikes" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning btn-lg glyphicon glyphicon-edit">Edit</a>
+        <a asp-area="Products" asp-controller="Bikes" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger btn-lg glyphicon glyphicon-remove">Delete</a>
+    </div>
+}
+else
+{
+    <h1 align="center">@Model.Price BGN</h1>
+    <div style="text-align:center">
+        <a class="btn btn-primary btn-lg glyphicon glyphicon-shopping-cart" asp-area="" asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-id="@Model.Id">Add To Cart</a>
+    </div>
+
+}
+
+
+

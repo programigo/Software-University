@@ -32,7 +32,7 @@ namespace BikeMania.Data.Migrations
                     b.Property<string>("BatteryMake")
                         .HasMaxLength(40);
 
-                    b.Property<int>("BatteryPower");
+                    b.Property<int?>("BatteryPower");
 
                     b.Property<string>("BrakeLevers")
                         .HasMaxLength(30);
@@ -57,6 +57,10 @@ namespace BikeMania.Data.Migrations
                     b.Property<string>("Handlebar")
                         .HasMaxLength(50);
 
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasMaxLength(2000);
+
                     b.Property<string>("Kickstand")
                         .HasMaxLength(20);
 
@@ -65,6 +69,8 @@ namespace BikeMania.Data.Migrations
                     b.Property<string>("Model")
                         .IsRequired()
                         .HasMaxLength(100);
+
+                    b.Property<decimal>("Price");
 
                     b.Property<int>("Quantity");
 
@@ -83,8 +89,6 @@ namespace BikeMania.Data.Migrations
                     b.Property<string>("TiresMake")
                         .HasMaxLength(50);
 
-                    b.Property<int>("Type");
-
                     b.Property<string>("UserId");
 
                     b.Property<string>("WheelesMake")
@@ -95,6 +99,54 @@ namespace BikeMania.Data.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("Bikes");
+                });
+
+            modelBuilder.Entity("BikeMania.Data.Models.CartItem", b =>
+                {
+                    b.Property<int>("ProductId")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<int>("Quantity");
+
+                    b.HasKey("ProductId");
+
+                    b.ToTable("ShoppingCartItems");
+                });
+
+            modelBuilder.Entity("BikeMania.Data.Models.Order", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<decimal>("TotalPrice");
+
+                    b.Property<string>("UserId");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Order");
+                });
+
+            modelBuilder.Entity("BikeMania.Data.Models.OrderItem", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<int>("OrderId");
+
+                    b.Property<int>("ProductId");
+
+                    b.Property<decimal>("ProductPrice");
+
+                    b.Property<int>("Quantity");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("OrderId");
+
+                    b.ToTable("OrderItem");
                 });
 
             modelBuilder.Entity("BikeMania.Data.Models.User", b =>
@@ -261,6 +313,21 @@ namespace BikeMania.Data.Migrations
                     b.HasOne("BikeMania.Data.Models.User", "User")
                         .WithMany("Bikes")
                         .HasForeignKey("UserId");
+                });
+
+            modelBuilder.Entity("BikeMania.Data.Models.Order", b =>
+                {
+                    b.HasOne("BikeMania.Data.Models.User", "User")
+                        .WithMany("Orders")
+                        .HasForeignKey("UserId");
+                });
+
+            modelBuilder.Entity("BikeMania.Data.Models.OrderItem", b =>
+                {
+                    b.HasOne("BikeMania.Data.Models.Order", "Order")
+                        .WithMany("Items")
+                        .HasForeignKey("OrderId")
+                        .OnDelete(DeleteBehavior.Cascade);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

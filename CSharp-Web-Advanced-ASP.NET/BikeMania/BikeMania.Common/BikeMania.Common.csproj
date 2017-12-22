@@ -8,4 +8,8 @@
     <PackageReference Include="AutoMapper" Version="6.2.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BikeMania.Data\BikeMania.Data.csproj" />
+  </ItemGroup>
+
 </Project>

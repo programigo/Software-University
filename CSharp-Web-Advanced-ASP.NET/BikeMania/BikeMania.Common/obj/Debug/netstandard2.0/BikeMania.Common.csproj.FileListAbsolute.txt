@@ -7,3 +7,5 @@ D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Common\ob
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Common\bin\Debug\netstandard2.0\BikeMania.Common.pdb
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Common\obj\Debug\netstandard2.0\BikeMania.Common.dll
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Common\obj\Debug\netstandard2.0\BikeMania.Common.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Common\bin\Debug\netstandard2.0\BikeMania.Data.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Common\bin\Debug\netstandard2.0\BikeMania.Data.pdb

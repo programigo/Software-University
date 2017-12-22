@@ -1,0 +1,146 @@
+﻿@model BikeFormModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Make"></label>
+        <select asp-for="Make" asp-items="Html.GetEnumSelectList<Make>()" class="form-control"></select>
+        <span asp-validation-for="Make" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Model"></label>
+        <input asp-for="Model" class="form-control" />
+        <span asp-validation-for="Model" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ImageUrl"></label>
+        <input asp-for="ImageUrl" class="form-control" />
+        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="FrameSize"></label>
+        <input asp-for="FrameSize" class="form-control" />
+        <span asp-validation-for="FrameSize" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="WheelesMake"></label>
+        <select asp-for="WheelesMake" class="form-control"></select>
+        <span asp-validation-for="WheelesMake" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ForkMake"></label>
+        <input asp-for="ForkMake" class="form-control" />
+        <span asp-validation-for="ForkMake" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TiresMake"></label>
+        <input asp-for="TiresMake" class="form-control" />
+        <span asp-validation-for="TiresMake" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ShiftersMake"></label>
+        <input asp-for="ShiftersMake" class="form-control" />
+        <span asp-validation-for="ShiftersMake" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="FrontDerailleur"></label>
+        <input asp-for="FrontDerailleur" class="form-control" />
+        <span asp-validation-for="FrontDerailleur" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="RearDerailleur"></label>
+        <input asp-for="RearDerailleur" class="form-control" />
+        <span asp-validation-for="RearDerailleur" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Chain"></label>
+        <input asp-for="Chain" class="form-control" />
+        <span asp-validation-for="Chain" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Saddle"></label>
+        <input asp-for="Saddle" class="form-control" />
+        <span asp-validation-for="Saddle" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Handlebar"></label>
+        <input asp-for="Handlebar" class="form-control" />
+        <span asp-validation-for="Handlebar" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Brakes"></label>
+        <input asp-for="Brakes" class="form-control" />
+        <span asp-validation-for="Brakes" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Color"></label>
+        <input asp-for="Color" class="form-control" />
+        <span asp-validation-for="Color" class="text-danger"></span>
+    </div>
+    @if (Model.BrakeLevers != null)
+    {
+        <div class="form-group">
+            <label asp-for="BrakeLevers"></label>
+            <input asp-for="BrakeLevers" class="form-control" />
+            <span asp-validation-for="BrakeLevers" class="text-danger"></span>
+        </div>
+    }
+    @if (Model.BatteryMake != null)
+    {
+        <div class="form-group">
+            <label asp-for="BatteryMake"></label>
+            <input asp-for="BatteryMake" class="form-control" />
+            <span asp-validation-for="BatteryMake" class="text-danger"></span>
+        </div>
+    }
+    @if (Model.BatteryPower != null)
+    {
+        <div class="form-group">
+            <label asp-for="BatteryPower"></label>
+            <input asp-for="BatteryPower" class="form-control" />
+            <span asp-validation-for="BatteryPower" class="text-danger"></span>
+        </div>
+    }
+    @if (Model.BarTape != null)
+    {
+        <div class="form-group">
+            <label asp-for="BarTape"></label>
+            <input asp-for="BarTape" class="form-control" />
+            <span asp-validation-for="BarTape" class="text-danger"></span>
+        </div>
+    }
+    @if (Model.RearShockMake != null)
+    {
+        <div class="form-group">
+            <label asp-for="RearShockMake"></label>
+            <input asp-for="RearShockMake" class="form-control" />
+            <span asp-validation-for="RearShockMake" class="text-danger"></span>
+        </div>
+    }
+    @if (Model.Kickstand != null)
+    {
+        <div class="form-group">
+            <label asp-for="Kickstand"></label>
+            <input asp-for="Kickstand" class="form-control" />
+            <span asp-validation-for="Kickstand" class="text-danger"></span>
+        </div>
+    }
+    <input class="btn" type="submit" value="Cancel" />
+    <input class="btn btn-primary" type="submit" value="Edit" />
+</form>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

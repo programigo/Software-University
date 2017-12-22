@@ -6,13 +6,19 @@ namespace BikeMania.Data.Models
     {
         public int Id { get; set; }
 
-        public BikeType Type { get; set; }
-
         public Make Make { get; set; }
 
         [Required]
         [MaxLength(100)]
         public string Model { get; set; }
+
+        [Required]
+        public decimal Price { get; set; }
+
+        [Required]
+        [MinLength(10)]
+        [MaxLength(2000)]
+        public string ImageUrl { get; set; }
 
         [Range(0, 50)]
         public int Quantity { get; set; }
@@ -75,7 +81,7 @@ namespace BikeMania.Data.Models
 
         //For Electric Bike
         [Range(110, 1500)]
-        public int BatteryPower { get; set; }
+        public int? BatteryPower { get; set; }
 
         //For Road Bike
         [MinLength(3)]

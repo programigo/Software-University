@@ -3,7 +3,6 @@
     using AutoMapper;
     using BikeMania.Data;
     using BikeMania.Data.Models;
-    using BikeMania.Web.Infrastructure.Extensions;
     using Microsoft.AspNetCore.Builder;
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.AspNetCore.Identity;
@@ -11,6 +10,9 @@
     using Microsoft.EntityFrameworkCore;
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
+    using Services.ShoppingCart;
+    using Services.ShoppingCart.Implementations;
+    using Web.Infrastructure.Extensions;
 
     public class Startup
     {
@@ -26,6 +28,18 @@
             services.AddDbContext<BikeManiaDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
+            services.AddAuthentication().AddFacebook(fo =>
+            {
+                fo.AppId = "124885138302631";
+                fo.AppSecret = "2151440c9c6457620964692aa3c5c971";
+            });
+
+            services.AddAuthentication().AddGoogle(googleOptions =>
+            {
+                googleOptions.ClientId = "392416727437-h8amg8vlmsdu77nrabm5kn3jdo2ld073.apps.googleusercontent.com";
+                googleOptions.ClientSecret = "lY7WGFx9TM4M4DhoZSZOupxP";
+            });
+
             services.AddIdentity<User, IdentityRole>(options =>
             {
                 options.Password.RequireDigit = false;
@@ -39,6 +53,10 @@
             services.AddAutoMapper();
 
             services.AddDomainServices();
+
+            services.AddSingleton<IShoppingCartManager, ShoppingCartManager>();
+
+            services.AddSession();
 
             services.AddMvc(options => 
             {
@@ -64,6 +82,8 @@
             app.UseStaticFiles();
 
             app.UseAuthentication();
+
+            app.UseSession();
 
             app.UseMvc(routes =>
             {

@@ -1,0 +1,20 @@
+﻿@model int
+
+@{
+    ViewData["Title"] = "Delete Bike";
+}
+
+<div class="col-lg-4"></div>
+<div class="col-lg-4">
+    <div class="panel panel-default delete-panel">
+        <div class="panel-heading">
+            <h3 class="panel-title text-center">
+                Are you sure yo want to delete this bike ?
+            </h3>
+        </div>
+        <div style="text-align:center" class="panel-footer">
+            <a asp-controller="Bikes" asp-action="Destroy" asp-route-id="@Model" class="btn btn-danger">Confirm Delete</a>
+            <a asp-controller="Bikes" asp-action="Index" class="btn btn-default">Back</a>
+        </div>
+    </div>
+</div>
