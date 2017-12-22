@@ -58,7 +58,7 @@
         {
             var shoppingCartId = this.HttpContext.Session.GetShoppingCartId();
 
-            //this.shoppingCartManager.UpdateQuantity(shoppingCartId, id, quantity);
+            //this.shoppingCartManager.UpdateQuantity(shoppingCartId);
 
             return RedirectToAction(nameof(Items));
         }

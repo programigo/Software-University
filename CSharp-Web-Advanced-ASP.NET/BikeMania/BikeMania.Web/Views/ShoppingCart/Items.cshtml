@@ -12,23 +12,21 @@
         <thead>
             <tr>
                 <th>Name</th>
-                <th>Quantity <input type="submit" value="Update" /></th>
+                <th>Quantity</th>
                 <th>Price</th>
                 <th></th>
             </tr>
         </thead>
         @foreach (var item in Model)
         {
-
             <tbody>
                 <tr>
                     <td>@item.Title</td>
-                    <td><input type="number" name="quantity" value="@item.Quantity" /></td>
-                    <td>@item.Price BGN</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Price * @item.Quantity) BGN</td>
                     <td><a class="btn btn-warning glyphicon glyphicon-remove" asp-controller="ShoppingCart" asp-action="RemoveFromCart" asp-route-id="@item.ProductId">Remove</a></td>
                 </tr>
             </tbody>
-
         }
         
     </table>

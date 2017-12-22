@@ -37,6 +37,22 @@
         [Fact]
         public async Task PostCreateShouldReturnRedirectWitValidModel()
         {
+            const Make DragMake = Make.Drag;
+            const string BikeModel = "Master Pro";
+            const decimal BikePrice = 890.67m;
+            const string BikeImageUrl = "https://dragzone.bg/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/_/3/_31466000117c_15074.jpg";
+            const int BikeFrameSize = 550;
+            const string BikeWheelesMake = "Kenda";
+            const string BikeForkMake = "RockShock";
+            const string BikeTiresMake = "Maxxis";
+            const string BikeShiftersMake = "Dura Ace";
+            const string BikeFrontDerailleur = "Verosice";
+            const string BikeRearDerailleur = "Verosice";
+            const string BikeChain = "Kenda"
+            const string BikeSaddle = "Selle Italia";
+            const string BikeHandlebar = "SomeTest";
+            const string BikeBrakes = "Brembo";
+
             // Arrange
             Make modelMake = Make.Drag;
             string modelModel = null;
@@ -142,44 +158,44 @@
             // Act
             var result = await controller.Create(new BikeFormModel
             {
-                Make = Make.Drag,
-                Model = "Master Pro",
-                Price = 890.67m,
-                ImageUrl = "https://dragzone.bg/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/_/3/_31466000117c_15074.jpg",
+                Make = DragMake,
+                Model = BikeModel,
+                Price = BikePrice,
+                ImageUrl = BikeImageUrl,
                 Quantity = 1,
-                FrameSize = 550,
-                WheelesMake = "Kenda",
-                ForkMake = "RockShock",
-                TiresMake = "Maxxis",
-                ShiftersMake = "Dura Ace",
-                FrontDerailleur = "Verosice",
-                RearDerailleur = "Verosice",
-                Chain = "Kenda",
-                Saddle = "Selle Italia",
-                Handlebar = "SomeTest",
-                Brakes = "Brembo"
+                FrameSize = BikeFrameSize,
+                WheelesMake = BikeWheelesMake,
+                ForkMake = BikeForkMake,
+                TiresMake = BikeTiresMake,
+                ShiftersMake = BikeShiftersMake,
+                FrontDerailleur = BikeFrontDerailleur,
+                RearDerailleur = BikeRearDerailleur,
+                Chain = BikeChain,
+                Saddle = BikeSaddle,
+                Handlebar = BikeHandlebar,
+                Brakes = BikeBrakes
                 
             });
 
             // Assert
             modelMake.Should().Be(Make.Drag);
-            modelModel.Should().Be("Master Pro");
-            modelPrice.Should().Be(890.67m);
-            modelImageUrl.Should().Be("https://dragzone.bg/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/_/3/_31466000117c_15074.jpg");
+            modelModel.Should().Be(BikeModel);
+            modelPrice.Should().Be(BikePrice);
+            modelImageUrl.Should().Be(BikeImageUrl);
             modelQuantity.Should().Be(1);
-            modelFrameSize.Should().Be(550);
-            modelWheelesMake.Should().Be("Kenda");
-            modelForkMake.Should().Be("RockShock");
-            modelTiresMake.Should().Be("Maxxis");
-            modelShiftersMake.Should().Be("Dura Ace");
-            modelFrontDerailleur.Should().Be("Verosice");
-            modelRearDerailleur.Should().Be("Verosice");
-            modelChain.Should().Be("Kenda");
-            modelSaddle.Should().Be("Selle Italia");
-            modelHandlebar.Should().Be("SomeTest"); ;
-            modelBrakes.Should().Be("Brembo");
+            modelFrameSize.Should().Be(BikeFrameSize);
+            modelWheelesMake.Should().Be(BikeWheelesMake);
+            modelForkMake.Should().Be(BikeForkMake);
+            modelTiresMake.Should().Be(BikeTiresMake);
+            modelShiftersMake.Should().Be(BikeShiftersMake);
+            modelFrontDerailleur.Should().Be(BikeFrontDerailleur);
+            modelRearDerailleur.Should().Be(BikeRearDerailleur);
+            modelChain.Should().Be(BikeChain);
+            modelSaddle.Should().Be(BikeSaddle);
+            modelHandlebar.Should().Be(BikeHandlebar); ;
+            modelBrakes.Should().Be(BikeBrakes);
 
-            successMessage.Should().Be($"Bike {Make.Drag} {"Master Pro"} created successfully!");
+            successMessage.Should().Be($"Bike {DragMake} {BikeModel} created successfully!");
 
             result.Should().BeOfType<RedirectToActionResult>();
 
