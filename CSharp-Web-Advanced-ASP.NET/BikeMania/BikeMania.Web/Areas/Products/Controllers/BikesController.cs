@@ -107,6 +107,11 @@
         {
             var bike = await this.bikes.DetailsAsync(id);
 
+            if (bike.UserId != this.userManager.GetUserId(User))
+            {
+                return Unauthorized();
+            }
+
             if (bike == null)
             {
                 return NotFound();
