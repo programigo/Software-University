@@ -105,14 +105,14 @@
         [Authorize]
         public async Task<IActionResult> Edit(int id)
         {
-            var bikeExists = await this.bikes.ExistsAsync(id, this.userManager.GetUserId(User));
+            var bike = await this.bikes.DetailsAsync(id);
 
-            if (!bikeExists)
+            if (bike == null)
             {
                 return NotFound();
             }
 
-            return View();
+            return View(bike);
         }
         
         [Authorize]
@@ -169,9 +169,9 @@
          
 
         [Authorize]
-        public IActionResult Destroy(int id)
+        public async Task<IActionResult> Destroy(int id)
         {
-            this.bikes.DeleteAsync(id);
+            await this.bikes.DeleteAsync(id);
 
             return RedirectToAction(nameof(Index));
         }
