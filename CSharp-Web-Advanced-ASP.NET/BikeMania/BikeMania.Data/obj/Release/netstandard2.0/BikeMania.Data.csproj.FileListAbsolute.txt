@@ -7,3 +7,12 @@ D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\obj\
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\obj\Release\netstandard2.0\BikeMania.Data.AssemblyInfo.cs
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\obj\Release\netstandard2.0\BikeMania.Data.dll
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\obj\Release\netstandard2.0\BikeMania.Data.pdb
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\bin\Release\netstandard2.0\BikeMania.Data.deps.json
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\bin\Release\netstandard2.0\BikeMania.Data.dll
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\bin\Release\netstandard2.0\BikeMania.Data.pdb
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\obj\Release\netstandard2.0\BikeMania.Data.csprojResolveAssemblyReference.cache
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\obj\Release\netstandard2.0\BikeMania.Data.csproj.CoreCompileInputs.cache
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\obj\Release\netstandard2.0\BikeMania.Data.AssemblyInfoInputs.cache
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\obj\Release\netstandard2.0\BikeMania.Data.AssemblyInfo.cs
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\obj\Release\netstandard2.0\BikeMania.Data.dll
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Data\obj\Release\netstandard2.0\BikeMania.Data.pdb

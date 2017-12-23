@@ -11,3 +11,16 @@ D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Release\netstandard2.0\BikeMania.Services.AssemblyInfo.cs
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Release\netstandard2.0\BikeMania.Services.dll
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Release\netstandard2.0\BikeMania.Services.pdb
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Release\netstandard2.0\BikeMania.Services.deps.json
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Release\netstandard2.0\BikeMania.Services.dll
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Release\netstandard2.0\BikeMania.Services.pdb
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Release\netstandard2.0\BikeMania.Common.dll
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Release\netstandard2.0\BikeMania.Data.dll
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Release\netstandard2.0\BikeMania.Common.pdb
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\bin\Release\netstandard2.0\BikeMania.Data.pdb
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Release\netstandard2.0\BikeMania.Services.csprojResolveAssemblyReference.cache
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Release\netstandard2.0\BikeMania.Services.csproj.CoreCompileInputs.cache
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Release\netstandard2.0\BikeMania.Services.AssemblyInfoInputs.cache
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Release\netstandard2.0\BikeMania.Services.AssemblyInfo.cs
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Release\netstandard2.0\BikeMania.Services.dll
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Services\obj\Release\netstandard2.0\BikeMania.Services.pdb

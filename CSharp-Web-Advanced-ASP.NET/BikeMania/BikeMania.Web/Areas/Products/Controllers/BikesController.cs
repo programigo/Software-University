@@ -155,8 +155,18 @@
         }
 
         [Authorize]
-        public IActionResult Delete(int id)
-            => View(id);
+        public async Task<IActionResult> Delete(int id)
+        {
+            var bike = await this.bikes.DetailsAsync(id);
+
+            if (bike.UserId != this.userManager.GetUserId(User))
+            {
+                return Unauthorized();
+            }
+
+            return View(id);
+        }
+         
 
         [Authorize]
         public IActionResult Destroy(int id)

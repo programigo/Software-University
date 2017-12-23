@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BikeMania.Services", "BikeM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BikeMania.Common", "BikeMania.Common\BikeMania.Common.csproj", "{B9ABFE3F-A9EB-4D86-A9CD-5FE44355DC13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeMania.Test", "BikeMania.Test\BikeMania.Test.csproj", "{0C19E24B-7413-48FF-93D4-9BCA4AC48304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BikeMania.Test", "BikeMania.Test\BikeMania.Test.csproj", "{0C19E24B-7413-48FF-93D4-9BCA4AC48304}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,16 +25,16 @@ Global
 		{A5B79EC6-2ABC-405F-8216-12106080F442}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B0FF6891-1DBF-43E6-9A83-14DBAEF5DFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B0FF6891-1DBF-43E6-9A83-14DBAEF5DFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B0FF6891-1DBF-43E6-9A83-14DBAEF5DFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B0FF6891-1DBF-43E6-9A83-14DBAEF5DFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FF6891-1DBF-43E6-9A83-14DBAEF5DFE1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FF6891-1DBF-43E6-9A83-14DBAEF5DFE1}.Release|Any CPU.Build.0 = Debug|Any CPU
 		{B78A9885-2825-4A46-8AA9-D3172940E3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B78A9885-2825-4A46-8AA9-D3172940E3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B78A9885-2825-4A46-8AA9-D3172940E3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B78A9885-2825-4A46-8AA9-D3172940E3A7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B9ABFE3F-A9EB-4D86-A9CD-5FE44355DC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B9ABFE3F-A9EB-4D86-A9CD-5FE44355DC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9ABFE3F-A9EB-4D86-A9CD-5FE44355DC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9ABFE3F-A9EB-4D86-A9CD-5FE44355DC13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9ABFE3F-A9EB-4D86-A9CD-5FE44355DC13}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9ABFE3F-A9EB-4D86-A9CD-5FE44355DC13}.Release|Any CPU.Build.0 = Debug|Any CPU
 		{0C19E24B-7413-48FF-93D4-9BCA4AC48304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0C19E24B-7413-48FF-93D4-9BCA4AC48304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C19E24B-7413-48FF-93D4-9BCA4AC48304}.Release|Any CPU.ActiveCfg = Release|Any CPU

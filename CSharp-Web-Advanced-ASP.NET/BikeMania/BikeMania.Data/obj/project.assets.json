@@ -3616,11 +3616,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Data\\BikeMania.Data.csproj",
+      "projectUniqueName": "C:\\Users\\programigo\\Desktop\\Software-University-master\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Data\\BikeMania.Data.csproj",
       "projectName": "BikeMania.Data",
-      "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Data\\BikeMania.Data.csproj",
+      "projectPath": "C:\\Users\\programigo\\Desktop\\Software-University-master\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Data\\BikeMania.Data.csproj",
       "packagesPath": "C:\\Users\\programigo\\.nuget\\packages\\",
-      "outputPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Data\\obj\\",
+      "outputPath": "C:\\Users\\programigo\\Desktop\\Software-University-master\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

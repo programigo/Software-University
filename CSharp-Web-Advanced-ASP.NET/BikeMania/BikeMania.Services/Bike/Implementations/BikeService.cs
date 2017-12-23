@@ -239,7 +239,7 @@
                 return;
             }
 
-            this.db.Bikes.Remove(bike);
+            this.db.Remove(bike);
 
             await this.db.SaveChangesAsync();
         }

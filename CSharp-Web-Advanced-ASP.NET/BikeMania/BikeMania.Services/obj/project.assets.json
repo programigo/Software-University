@@ -4608,11 +4608,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Services\\BikeMania.Services.csproj",
+      "projectUniqueName": "C:\\Users\\programigo\\Desktop\\Software-University-master\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Services\\BikeMania.Services.csproj",
       "projectName": "BikeMania.Services",
-      "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Services\\BikeMania.Services.csproj",
+      "projectPath": "C:\\Users\\programigo\\Desktop\\Software-University-master\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Services\\BikeMania.Services.csproj",
       "packagesPath": "C:\\Users\\programigo\\.nuget\\packages\\",
-      "outputPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Services\\obj\\",
+      "outputPath": "C:\\Users\\programigo\\Desktop\\Software-University-master\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -4633,11 +4633,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Data\\BikeMania.Data.csproj": {
-              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Data\\BikeMania.Data.csproj"
+            "C:\\Users\\programigo\\Desktop\\Software-University-master\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Data\\BikeMania.Data.csproj": {
+              "projectPath": "C:\\Users\\programigo\\Desktop\\Software-University-master\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Data\\BikeMania.Data.csproj"
             },
-            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Common\\BikeMania.Common.csproj": {
-              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Common\\BikeMania.Common.csproj"
+            "C:\\Users\\programigo\\Desktop\\Software-University-master\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Common\\BikeMania.Common.csproj": {
+              "projectPath": "C:\\Users\\programigo\\Desktop\\Software-University-master\\CSharp-Web-Advanced-ASP.NET\\BikeMania\\BikeMania.Common\\BikeMania.Common.csproj"
             }
           }
         }

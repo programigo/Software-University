@@ -20,3 +20,9 @@ D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Test\bin\
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Test\bin\Debug\netcoreapp2.0\BikeMania.Test.pdb
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Test\obj\Debug\netcoreapp2.0\BikeMania.Test.dll
 D:\Software-University\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Test\obj\Debug\netcoreapp2.0\BikeMania.Test.pdb
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Test\obj\Debug\netcoreapp2.0\BikeMania.Test.csprojResolveAssemblyReference.cache
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Test\obj\Debug\netcoreapp2.0\BikeMania.Test.csproj.CoreCompileInputs.cache
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Test\obj\Debug\netcoreapp2.0\BikeMania.Test.AssemblyInfoInputs.cache
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Test\obj\Debug\netcoreapp2.0\BikeMania.Test.AssemblyInfo.cs
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Test\obj\Debug\netcoreapp2.0\BikeMania.Test.dll
+C:\Users\programigo\Desktop\Software-University-master\CSharp-Web-Advanced-ASP.NET\BikeMania\BikeMania.Test\obj\Debug\netcoreapp2.0\BikeMania.Test.pdb
