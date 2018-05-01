@@ -1,0 +1,9 @@
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Common\bin\Debug\netstandard2.0\BookShop.Common.deps.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Common\bin\Debug\netstandard2.0\BookShop.Common.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.csprojResolveAssemblyReference.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.csproj.CoreCompileInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.AssemblyInfoInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.AssemblyInfo.cs
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Common\bin\Debug\netstandard2.0\BookShop.Common.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Common\obj\Debug\netstandard2.0\BookShop.Common.pdb

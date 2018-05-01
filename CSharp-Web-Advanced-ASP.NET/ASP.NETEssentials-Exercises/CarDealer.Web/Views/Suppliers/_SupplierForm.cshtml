@@ -1,0 +1,28 @@
+﻿@model SupplierFormModel
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        @if (Model.IsEdit)
+        {
+            <input asp-for="Name" readonly required class="form-control" />
+        }
+        else
+        {
+
+            <input asp-for="Name" required class="form-control" />
+        }
+
+        <span asp-validation-for="Name" class="form-text text-danger"></span>
+    </div>
+    <div class="checkbox">
+        <label asp-for="IsImporter"></label>
+        <input asp-for="IsImporter" type="checkbox" />
+        <span asp-validation-for="IsImporter" class="form-text text-danger"></span>
+    </div>
+
+    <div>
+        <input class="btn btn-success" type="submit" value="Save Supplier" />
+    </div>
+</form>
+

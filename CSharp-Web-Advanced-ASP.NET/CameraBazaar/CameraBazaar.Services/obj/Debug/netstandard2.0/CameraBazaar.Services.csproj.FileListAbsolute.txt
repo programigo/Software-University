@@ -9,3 +9,15 @@ C:\Users\programigo\Desktop\CameraBazaar\CameraBazaar.Services\obj\Debug\netstan
 C:\Users\programigo\Desktop\CameraBazaar\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.AssemblyInfo.cs
 C:\Users\programigo\Desktop\CameraBazaar\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.dll
 C:\Users\programigo\Desktop\CameraBazaar\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\bin\Debug\netstandard2.0\CameraBazaar.Services.deps.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\bin\Debug\netstandard2.0\CameraBazaar.Services.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\bin\Debug\netstandard2.0\CameraBazaar.Services.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\bin\Debug\netstandard2.0\CameraBazaar.Data.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\bin\Debug\netstandard2.0\CameraBazaar.Data.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.csprojResolveAssemblyReference.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.csproj.CoreCompileInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.AssemblyInfoInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.AssemblyInfo.cs
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Services\obj\Debug\netstandard2.0\CameraBazaar.Services.csproj.CopyComplete

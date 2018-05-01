@@ -28,3 +28,6 @@ C:\Users\programigo\Desktop\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.
 C:\Users\programigo\Desktop\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.dll
 C:\Users\programigo\Desktop\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.pdb
 C:\Users\programigo\Desktop\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Services.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Web\bin\Debug\netcoreapp2.0\CameraBazaar.Services.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\CameraBazaar\CameraBazaar.Web\obj\Debug\netcoreapp2.0\CameraBazaar.Web.csproj.CopyComplete

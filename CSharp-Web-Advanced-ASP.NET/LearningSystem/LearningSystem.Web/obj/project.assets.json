@@ -13654,6 +13654,7 @@
   },
   "packageFolders": {
     "C:\\Users\\programigo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13669,11 +13670,13 @@
       "outputPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\LearningSystem\\LearningSystem.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\programigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -13685,14 +13688,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\LearningSystem\\LearningSystem.Common\\LearningSystem.Common.csproj": {
-              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\LearningSystem\\LearningSystem.Common\\LearningSystem.Common.csproj"
+            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\LearningSystem\\LearningSystem.Services\\LearningSystem.Services.csproj": {
+              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\LearningSystem\\LearningSystem.Services\\LearningSystem.Services.csproj"
             },
             "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\LearningSystem\\LearningSystem.Data\\LearningSystem.Data.csproj": {
               "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\LearningSystem\\LearningSystem.Data\\LearningSystem.Data.csproj"
             },
-            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\LearningSystem\\LearningSystem.Services\\LearningSystem.Services.csproj": {
-              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\LearningSystem\\LearningSystem.Services\\LearningSystem.Services.csproj"
+            "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\LearningSystem\\LearningSystem.Common\\LearningSystem.Common.csproj": {
+              "projectPath": "D:\\Software-University\\CSharp-Web-Advanced-ASP.NET\\LearningSystem\\LearningSystem.Common\\LearningSystem.Common.csproj"
             }
           }
         }
@@ -13706,32 +13709,32 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[3.2.0, )"
+          },
+          "HtmlSanitizer": {
+            "target": "Package",
+            "version": "[4.0.181, )"
+          },
+          "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "[2.0.3, )"
+          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.1"
+            "version": "[2.0.1, )"
           },
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "3.2.0"
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.1"
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "2.0",
-            "autoReferenced": true
-          },
-          "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "2.0.3"
-          },
-          "HtmlSanitizer": {
-            "target": "Package",
-            "version": "4.0.181"
+            "version": "[2.0.1, )"
           }
         },
         "imports": [

@@ -1,0 +1,9 @@
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Data\bin\Debug\netcoreapp2.0\News.Data.deps.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Data\bin\Debug\netcoreapp2.0\News.Data.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.csprojResolveAssemblyReference.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.csproj.CoreCompileInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.AssemblyInfoInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.AssemblyInfo.cs
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Data\bin\Debug\netcoreapp2.0\News.Data.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.pdb

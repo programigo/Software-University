@@ -1,0 +1,13 @@
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\bin\Debug\netcoreapp2.0\News.Web.deps.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\bin\Debug\netcoreapp2.0\News.Web.runtimeconfig.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\bin\Debug\netcoreapp2.0\News.Web.runtimeconfig.dev.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\bin\Debug\netcoreapp2.0\News.Web.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\bin\Debug\netcoreapp2.0\News.Web.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\bin\Debug\netcoreapp2.0\News.Data.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\bin\Debug\netcoreapp2.0\News.Data.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\obj\Debug\netcoreapp2.0\News.Web.csprojResolveAssemblyReference.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\obj\Debug\netcoreapp2.0\News.Web.csproj.CoreCompileInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\obj\Debug\netcoreapp2.0\News.Web.AssemblyInfoInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\obj\Debug\netcoreapp2.0\News.Web.AssemblyInfo.cs
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\obj\Debug\netcoreapp2.0\News.Web.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\News\News.Web\obj\Debug\netcoreapp2.0\News.Web.pdb

@@ -1,0 +1,3 @@
+function printMatrix(rows, cols) {
+    
+}

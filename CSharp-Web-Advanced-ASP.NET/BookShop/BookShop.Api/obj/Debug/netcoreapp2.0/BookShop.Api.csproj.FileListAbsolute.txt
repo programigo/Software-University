@@ -1,0 +1,17 @@
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.deps.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.runtimeconfig.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.runtimeconfig.dev.json
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.csprojResolveAssemblyReference.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.csproj.CoreCompileInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.AssemblyInfoInputs.cache
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.AssemblyInfo.cs
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Services.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Common.dll
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Common.pdb
+D:\Software-University\CSharp-Web-Advanced-ASP.NET\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Services.pdb

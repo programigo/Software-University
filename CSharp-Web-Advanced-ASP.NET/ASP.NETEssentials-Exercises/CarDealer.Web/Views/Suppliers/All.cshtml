@@ -1,0 +1,42 @@
+﻿@model IEnumerable<SupplierModifyingModel>
+@{
+    ViewData["Title"] = "All Suppliers";
+}
+
+<h2>
+    @ViewData["Title"]
+    <a class="btn btn-primary" href="/suppliers/create">New Supplier</a>
+</h2>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Importer
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var supplier in Model)
+        {
+            <tr>
+                <th>
+                    @supplier.Name
+                </th>
+                <th>
+                    @(supplier.IsImporter ? "Yes" : "No")
+                </th>
+               <th>
+                   <a href="/suppliers/edit/@supplier.Id" class="btn btn-warning">Edit</a>
+                   <a href="/suppliers/delete/@supplier.Id" class="btn btn-danger">Delete</a>
+               </th>
+            </tr>
+        }
+    </tbody>
+</table>

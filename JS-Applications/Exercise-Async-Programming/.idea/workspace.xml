@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea559735-370e-49de-93f6-4844cbc5ffc6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/03.Ferrari/.vs/03.Ferrari/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/03.Ferrari/.vs/03.Ferrari/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/03.Ferrari/.vs/03.Ferrari/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/03.Ferrari/.vs/03.Ferrari/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/03.Ferrari/obj/Debug/03.Ferrari.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/03.Ferrari/obj/Debug/03.Ferrari.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/03.Ferrari/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/03.Ferrari/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/08.MilitaryElite/.vs/08.MilitaryElite/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/08.MilitaryElite/.vs/08.MilitaryElite/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/08.MilitaryElite/obj/Debug/08.MilitaryElite.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/08.MilitaryElite/obj/Debug/08.MilitaryElite.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/08.MilitaryElite/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C-Sharp-OOP-Advanced/InterfacesAndAbstraction-Exercise/08.MilitaryElite/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/.vs/BikeMania/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/.vs/BikeMania/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/.vs/BikeMania/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/.vs/BikeMania/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/bin/Debug/netstandard2.0/BikeMania.Common.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/bin/Debug/netstandard2.0/BikeMania.Common.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/obj/BikeMania.Common.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/obj/BikeMania.Common.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/obj/BikeMania.Common.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/obj/BikeMania.Common.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/obj/Debug/netstandard2.0/BikeMania.Common.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/obj/Debug/netstandard2.0/BikeMania.Common.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/obj/Debug/netstandard2.0/BikeMania.Common.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/obj/Debug/netstandard2.0/BikeMania.Common.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Common/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/bin/Debug/netstandard2.0/BikeMania.Data.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/bin/Debug/netstandard2.0/BikeMania.Data.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/obj/BikeMania.Data.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/obj/BikeMania.Data.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/obj/BikeMania.Data.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/obj/BikeMania.Data.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/obj/Debug/netstandard2.0/BikeMania.Data.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/obj/Debug/netstandard2.0/BikeMania.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/obj/Debug/netstandard2.0/BikeMania.Data.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/obj/Debug/netstandard2.0/BikeMania.Data.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/bin/Debug/netstandard2.0/BikeMania.Services.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/bin/Debug/netstandard2.0/BikeMania.Services.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/obj/BikeMania.Services.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/obj/BikeMania.Services.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/obj/BikeMania.Services.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/obj/BikeMania.Services.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/obj/Debug/netstandard2.0/BikeMania.Services.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/obj/Debug/netstandard2.0/BikeMania.Services.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/obj/Debug/netstandard2.0/BikeMania.Services.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/obj/Debug/netstandard2.0/BikeMania.Services.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Services/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Test/obj/BikeMania.Test.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Test/obj/BikeMania.Test.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Test/obj/BikeMania.Test.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Test/obj/BikeMania.Test.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Test/obj/Debug/netcoreapp2.0/BikeMania.Test.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Test/obj/Debug/netcoreapp2.0/BikeMania.Test.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Web/obj/BikeMania.Web.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Web/obj/BikeMania.Web.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Web/obj/BikeMania.Web.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Web/obj/BikeMania.Web.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Web/obj/Debug/netcoreapp2.0/BikeMania.Web.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Web/obj/Debug/netcoreapp2.0/BikeMania.Web.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Web/obj/Debug/netcoreapp2.0/BikeMania.Web.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/BikeMania/BikeMania.Web/obj/Debug/netcoreapp2.0/BikeMania.Web.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/.vs/CameraBazaar/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/.vs/CameraBazaar/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/.vs/CameraBazaar/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/.vs/CameraBazaar/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/bin/Debug/netstandard2.0/CameraBazaar.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/bin/Debug/netstandard2.0/CameraBazaar.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/bin/Debug/netstandard2.0/CameraBazaar.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/bin/Debug/netstandard2.0/CameraBazaar.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/CameraBazaar.Data.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/CameraBazaar.Data.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/CameraBazaar.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/CameraBazaar.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/Debug/netstandard2.0/CameraBazaar.Data.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/Debug/netstandard2.0/CameraBazaar.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/Debug/netstandard2.0/CameraBazaar.Data.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/Debug/netstandard2.0/CameraBazaar.Data.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/Debug/netstandard2.0/CameraBazaar.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/Debug/netstandard2.0/CameraBazaar.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/Debug/netstandard2.0/CameraBazaar.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/Debug/netstandard2.0/CameraBazaar.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/bin/Debug/netstandard2.0/CameraBazaar.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/bin/Debug/netstandard2.0/CameraBazaar.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/bin/Debug/netstandard2.0/CameraBazaar.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/bin/Debug/netstandard2.0/CameraBazaar.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/bin/Debug/netstandard2.0/CameraBazaar.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/bin/Debug/netstandard2.0/CameraBazaar.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/bin/Debug/netstandard2.0/CameraBazaar.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/bin/Debug/netstandard2.0/CameraBazaar.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/CameraBazaar.Services.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/CameraBazaar.Services.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/CameraBazaar.Services.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/CameraBazaar.Services.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/Debug/netstandard2.0/CameraBazaar.Services.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/Debug/netstandard2.0/CameraBazaar.Services.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/Debug/netstandard2.0/CameraBazaar.Services.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/Debug/netstandard2.0/CameraBazaar.Services.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/Debug/netstandard2.0/CameraBazaar.Services.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/Debug/netstandard2.0/CameraBazaar.Services.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/Debug/netstandard2.0/CameraBazaar.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/Debug/netstandard2.0/CameraBazaar.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/Debug/netstandard2.0/CameraBazaar.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/Debug/netstandard2.0/CameraBazaar.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Services/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/Views/Users/Details.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/Views/Users/Details.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/action-times.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/action-times.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Web.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/bin/Debug/netcoreapp2.0/CameraBazaar.Web.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/logs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/CameraBazaar.Web.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/CameraBazaar.Web.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/CameraBazaar.Web.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/CameraBazaar.Web.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/Debug/netcoreapp2.0/CameraBazaar.Web.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/Debug/netcoreapp2.0/CameraBazaar.Web.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/Debug/netcoreapp2.0/CameraBazaar.Web.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/Debug/netcoreapp2.0/CameraBazaar.Web.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/Debug/netcoreapp2.0/CameraBazaar.Web.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/Debug/netcoreapp2.0/CameraBazaar.Web.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/Debug/netcoreapp2.0/CameraBazaar.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/Debug/netcoreapp2.0/CameraBazaar.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/Debug/netcoreapp2.0/CameraBazaar.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/Debug/netcoreapp2.0/CameraBazaar.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/CameraBazaar/CameraBazaar.Web/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/.vs/LearningSystem/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/.vs/LearningSystem/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/.vs/LearningSystem/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/.vs/LearningSystem/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Common/obj/Debug/netstandard2.0/LearningSystem.Common.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Common/obj/Debug/netstandard2.0/LearningSystem.Common.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Common/obj/Debug/netstandard2.0/LearningSystem.Common.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Common/obj/Debug/netstandard2.0/LearningSystem.Common.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Common/obj/LearningSystem.Common.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Common/obj/LearningSystem.Common.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Common/obj/LearningSystem.Common.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Common/obj/LearningSystem.Common.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Common/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Common/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/bin/Debug/netstandard2.0/LearningSystem.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/bin/Debug/netstandard2.0/LearningSystem.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/bin/Debug/netstandard2.0/LearningSystem.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/bin/Debug/netstandard2.0/LearningSystem.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/Debug/netstandard2.0/LearningSystem.Data.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/Debug/netstandard2.0/LearningSystem.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/Debug/netstandard2.0/LearningSystem.Data.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/Debug/netstandard2.0/LearningSystem.Data.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/Debug/netstandard2.0/LearningSystem.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/Debug/netstandard2.0/LearningSystem.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/Debug/netstandard2.0/LearningSystem.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/Debug/netstandard2.0/LearningSystem.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/LearningSystem.Data.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/LearningSystem.Data.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/LearningSystem.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/LearningSystem.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/bin/Debug/netstandard2.0/LearningSystem.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/bin/Debug/netstandard2.0/LearningSystem.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/bin/Debug/netstandard2.0/LearningSystem.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/bin/Debug/netstandard2.0/LearningSystem.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/bin/Debug/netstandard2.0/LearningSystem.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/bin/Debug/netstandard2.0/LearningSystem.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/bin/Debug/netstandard2.0/LearningSystem.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/bin/Debug/netstandard2.0/LearningSystem.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/Debug/netstandard2.0/LearningSystem.Services.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/Debug/netstandard2.0/LearningSystem.Services.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/Debug/netstandard2.0/LearningSystem.Services.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/Debug/netstandard2.0/LearningSystem.Services.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/Debug/netstandard2.0/LearningSystem.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/Debug/netstandard2.0/LearningSystem.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/Debug/netstandard2.0/LearningSystem.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/Debug/netstandard2.0/LearningSystem.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/LearningSystem.Services.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/LearningSystem.Services.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/LearningSystem.Services.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/LearningSystem.Services.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Services/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Web.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/bin/Debug/netcoreapp2.0/LearningSystem.Web.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/Debug/netcoreapp2.0/LearningSystem.Web.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/Debug/netcoreapp2.0/LearningSystem.Web.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/Debug/netcoreapp2.0/LearningSystem.Web.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/Debug/netcoreapp2.0/LearningSystem.Web.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/Debug/netcoreapp2.0/LearningSystem.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/Debug/netcoreapp2.0/LearningSystem.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/Debug/netcoreapp2.0/LearningSystem.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/Debug/netcoreapp2.0/LearningSystem.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/LearningSystem.Web.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/LearningSystem.Web.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/LearningSystem.Web.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/LearningSystem.Web.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp-Web-Advanced-ASP.NET/LearningSystem/LearningSystem.Web/obj/project.assets.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="schedule.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schedule.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forecaster.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/forecaster.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="catch.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catch.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="catch.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="64" column="52" lean-forward="true" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/schedule.html" />
+        <option value="$PROJECT_DIR$/forecaster.js" />
+        <option value="$PROJECT_DIR$/catch.html" />
+        <option value="$PROJECT_DIR$/catch.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Exercise-Async-Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-Async-Programming" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Book-Library" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea559735-370e-49de-93f6-4844cbc5ffc6" name="Default" comment="" />
+      <created>1522442734565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522442734565</updated>
+      <workItem from="1522442736033" duration="5810000" />
+      <workItem from="1522484738262" duration="3688000" />
+      <workItem from="1522527411784" duration="3377000" />
+      <workItem from="1522570479817" duration="4047000" />
+      <workItem from="1522613033094" duration="6823000" />
+      <workItem from="1522681847088" duration="1988000" />
+      <workItem from="1522689002132" duration="2189000" />
+      <workItem from="1522701512546" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27936000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="7" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="7" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="7" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="7" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="73" lean-forward="true" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="7" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="64" column="52" lean-forward="true" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
