@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2DD2A032-11C9-48EB-A699-EC40FC5EDF9B}</ProjectGuid>
+    <ProjectGuid>{36F1A7F3-4996-461B-840E-F5B8C9D2ED37}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_04.CountSymbols</RootNamespace>
-    <AssemblyName>04.CountSymbols</AssemblyName>
+    <RootNamespace>Stored_Procedures</RootNamespace>
+    <AssemblyName>Stored-Procedures</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -43,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Startup.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
